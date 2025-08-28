@@ -13,14 +13,21 @@ Weekend indicator (Yes/No)
 **Feature Engineering**
 
 Creates additional features such as:
+
 Duration_Mood = duration × mood
+
 Confidence_Hour = confidence × hour
+
 Encodes the categorical variable Resource_Type using one-hot encoding.
 
 
-**Three pre-trained models** are loaded using joblib:
+**Three pre-trained models** 
+are loaded using joblib:
+
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
 
 Predictions from all three models are displayed.
