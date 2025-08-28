@@ -13,8 +13,8 @@ from Study_predictor import plot_feature_importance
 import joblib
 
 
-df = pd.read_csv(
-    r"C:\Users\ELECTRO LINKS\Downloads\studypredictor.csv", encoding='utf-8-sig')
+df = pd.read_csv("studypredictor.csv", encoding="utf-8-sig")
+
 lr_model = joblib.load("model.pkl")
 tree_model = joblib.load("tree_model.pkl")
 rf_model = joblib.load("rf_model.pkl")
@@ -143,3 +143,4 @@ st.markdown(
 )
 
 st.markdown("---")
+
