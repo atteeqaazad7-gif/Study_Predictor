@@ -1,0 +1,1000 @@
+﻿Date,Time,Resource_Type,Duration_Minutes,Topics ,Task_Status,,Time_of_day,Score,Mood,Confidence
+1/1/2023,7:51 PM,YouTube,59,Discrete Structures,Completed,,Evening,49.16666667,3,2
+1/2/2023,7:35 PM,Practice,110,Calculus,Not Completed,,Evening,56,1,1
+1/3/2023,8:18 PM,Blog,81,Statistics,Completed,,Evening,67.5,3,1
+1/4/2023,9:52 PM,Blog,72,LLM Models,Completed,,Night,60,3,1
+1/5/2023,9:42 PM,YouTube,79,Digital Logic Design,Not Completed,,Night,40,2,2
+1/6/2023,6:30 PM,Book,36,Calculus,Not Completed,,Evening,35,2,2
+1/7/2023,9:45 PM,Practice,81,Java (OOP),Completed,,Night,67.5,3,1
+1/8/2023,9:03 PM,ChatGPT,67,Java (OOP),Not Completed,,Night,59,2,1
+1/9/2023,6:27 PM,ChatGPT,32,Digital Logic Design,Not Completed,,Evening,48,2,1
+1/10/2023,8:36 PM,Online Course,118,Excel,Not Completed,,Evening,46,2,1
+1/11/2023,6:14 PM,ChatGPT,106,Calculus,Not Completed,,Evening,57,1,1
+1/12/2023,9:12 PM,Practice,72,Java (OOP),Not Completed,,Night,49,2,1
+1/13/2023,7:51 PM,Practice,64,SQL,Completed,,Evening,53.33333333,3,2
+1/14/2023,10:36 PM,Book,117,Digital Logic Design,Completed,,Night,97.5,3,1
+1/15/2023,8:37 PM,ChatGPT,93,Programming Fundamentals,Completed,,Evening,77.5,3,2
+1/16/2023,8:34 PM,ChatGPT,116,Linear Geometry,Not Completed,,Evening,55,2,2
+1/17/2023,6:02 PM,Book,71,Computer Networks,Not Completed,,Evening,34,2,1
+1/18/2023,9:43 PM,YouTube,98,Programming Fundamentals,Not Completed,,Night,33,1,1
+1/19/2023,6:08 PM,YouTube,66,Excel,Completed,,Evening,55,3,2
+1/20/2023,6:42 PM,YouTube,68,Statistics,Completed,,Evening,56.66666667,3,2
+1/21/2023,7:11 PM,YouTube,65,Neural Networks,Completed,,Evening,54.16666667,3,2
+1/22/2023,7:14 PM,Practice,79,Programming Fundamentals,Completed,,Evening,65.83333333,3,2
+1/23/2023,8:24 PM,Book,60,LLM Models,Completed,,Evening,50,3,1
+1/24/2023,7:02 PM,Practice,89,C++,Completed,,Evening,74.16666667,3,2
+1/25/2023,7:34 PM,ChatGPT,43,SQL,Not Completed,,Evening,35,1,1
+1/26/2023,8:59 PM,YouTube,74,Deep Learning,Completed,,Evening,61.66666667,3,1
+1/27/2023,7:17 PM,YouTube,78,Data Science,Completed,,Evening,65,3,1
+1/28/2023,10:49 PM,Practice,71,Deep Learning,Completed,,Night,59.16666667,3,1
+1/29/2023,6:56 PM,Book,33,Linear Geometry,Not Completed,,Evening,42,2,2
+1/30/2023,10:10 PM,ChatGPT,33,Data Science,Completed,,Night,27.5,3,1
+1/31/2023,9:54 PM,Book,108,Programming Fundamentals,Not Completed,,Night,57,1,1
+2/1/2023,6:33 PM,YouTube,70,Analytics,Not Completed,,Evening,55,1,1
+2/2/2023,7:53 PM,Practice,108,Excel,Completed,,Evening,90,3,2
+2/3/2023,8:40 PM,Blog,70,Excel,Completed,,Evening,58.33333333,3,2
+2/4/2023,10:19 PM,Blog,44,Statistics,Not Completed,,Night,31,2,1
+2/5/2023,10:11 PM,ChatGPT,52,LLM Models,Completed,,Night,43.33333333,3,2
+2/6/2023,10:43 PM,Online Course,93,AI,Not Completed,,Night,59,1,1
+2/7/2023,10:05 PM,Book,62,Analytics,Completed,,Night,51.66666667,3,2
+2/8/2023,10:59 PM,YouTube,31,Statistics,Completed,,Night,25.83333333,3,2
+2/9/2023,10:10 PM,YouTube,79,Projects,Completed,,Night,65.83333333,3,2
+2/10/2023,6:38 PM,ChatGPT,91,Java (OOP),Not Completed,,Evening,48,1,1
+2/11/2023,8:33 PM,YouTube,36,Excel,Completed,,Evening,30,3,1
+2/12/2023,10:23 PM,Book,96,Linear Geometry,Completed,,Night,80,3,1
+2/13/2023,6:39 PM,ChatGPT,78,Digital Logic Design,Completed,,Evening,65,3,1
+2/14/2023,6:43 PM,YouTube,116,Analytics,Not Completed,,Evening,52,1,1
+2/15/2023,9:28 PM,YouTube,78,Machine Learning,Not Completed,,Night,49,2,2
+2/16/2023,9:42 PM,Book,45,AI,Completed,,Night,37.5,3,1
+2/17/2023,7:30 PM,ChatGPT,97,Computer Networks,Completed,,Evening,80.83333333,3,2
+2/18/2023,10:08 PM,YouTube,37,Excel,Not Completed,,Night,30,2,2
+2/19/2023,7:40 PM,YouTube,37,Software Engineering,Not Completed,,Evening,46,2,1
+2/20/2023,7:30 PM,Book,92,Projects,Completed,,Evening,76.66666667,3,2
+2/21/2023,8:15 PM,YouTube,50,C++,Not Completed,,Evening,60,1,2
+2/22/2023,10:21 PM,YouTube,96,SQL,Not Completed,,Night,37,1,2
+2/23/2023,8:19 PM,Book,66,C++,Not Completed,,Evening,41,2,1
+2/24/2023,7:59 PM,Blog,67,Programming Fundamentals,Not Completed,,Evening,45,2,2
+2/25/2023,6:10 PM,ChatGPT,51,Deep Learning,Not Completed,,Evening,41,1,2
+2/26/2023,8:59 PM,Book,39,Excel,Not Completed,,Evening,31,2,1
+2/27/2023,9:21 PM,YouTube,47,Analytics,Completed,,Night,39.16666667,3,2
+2/28/2023,10:46 PM,Online Course,45,Statistics,Not Completed,,Night,41,2,1
+3/1/2023,7:15 PM,ChatGPT,95,C++,Not Completed,,Evening,37,1,1
+3/2/2023,6:39 PM,ChatGPT,110,LLM Models,Completed,,Evening,91.66666667,3,1
+3/3/2023,9:09 PM,ChatGPT,70,Projects,Not Completed,,Night,55,2,1
+3/4/2023,6:55 PM,Practice,69,Computer Networks,Not Completed,,Evening,44,1,2
+3/5/2023,6:57 PM,ChatGPT,46,Deep Learning,Completed,,Evening,38.33333333,3,2
+3/6/2023,7:39 PM,Online Course,57,Linear Geometry,Not Completed,,Evening,40,1,1
+3/7/2023,10:33 PM,Practice,44,Software Engineering,Completed,,Night,36.66666667,3,2
+3/8/2023,6:44 PM,Practice,79,Deep Learning,Completed,,Evening,65.83333333,3,2
+3/9/2023,9:39 PM,ChatGPT,66,SQL,Not Completed,,Night,53,2,2
+3/10/2023,9:38 PM,Book,72,SQL,Completed,,Night,60,3,1
+3/11/2023,9:47 PM,ChatGPT,42,Data Science,Not Completed,,Night,38,1,2
+3/12/2023,9:45 PM,ChatGPT,116,Software Engineering,Not Completed,,Night,41,2,1
+3/13/2023,8:05 PM,ChatGPT,69,AI,Not Completed,,Evening,53,1,1
+3/14/2023,10:19 PM,Blog,42,Statistics,Completed,,Night,35,3,1
+3/15/2023,9:22 PM,Book,70,Linear Geometry,Not Completed,,Night,35,1,2
+3/16/2023,7:03 PM,Book,76,Programming Fundamentals,Completed,,Evening,63.33333333,3,2
+3/17/2023,7:13 PM,Blog,119,Neural Networks,Not Completed,,Evening,33,2,2
+3/18/2023,9:40 PM,Book,57,Discrete Structures,Completed,,Night,47.5,3,2
+3/19/2023,10:27 PM,Practice,103,Statistics,Not Completed,,Night,42,1,1
+3/20/2023,10:17 PM,ChatGPT,46,Digital Logic Design,Not Completed,,Night,55,2,1
+3/21/2023,8:47 PM,ChatGPT,106,Software Engineering,Completed,,Evening,88.33333333,3,2
+3/22/2023,9:12 PM,Online Course,95,Deep Learning,Not Completed,,Night,38,1,2
+3/23/2023,8:15 PM,Practice,53,Analytics,Not Completed,,Evening,44,1,1
+3/24/2023,6:37 PM,YouTube,108,Programming Fundamentals,Not Completed,,Evening,54,1,2
+3/25/2023,6:12 PM,ChatGPT,95,Machine Learning,Not Completed,,Evening,56,2,1
+3/26/2023,6:33 PM,YouTube,59,Excel,Completed,,Evening,49.16666667,3,2
+3/27/2023,8:04 PM,Blog,109,Computer Networks,Completed,,Evening,90.83333333,3,1
+3/28/2023,9:55 PM,ChatGPT,45,Java (OOP),Not Completed,,Night,48,2,2
+3/29/2023,7:15 PM,YouTube,64,Deep Learning,Completed,,Evening,53.33333333,3,2
+3/30/2023,6:15 PM,Blog,33,Neural Networks,Completed,,Evening,27.5,3,2
+3/31/2023,6:43 PM,ChatGPT,30,SQL,Completed,,Evening,25,3,1
+4/1/2023,9:02 PM,YouTube,80,Discrete Structures,Completed,,Night,66.66666667,3,1
+4/2/2023,10:17 PM,YouTube,113,Machine Learning,Not Completed,,Night,49,1,1
+4/3/2023,10:01 PM,Online Course,92,Analytics,Not Completed,,Night,33,2,2
+4/4/2023,6:25 PM,Online Course,71,Neural Networks,Completed,,Evening,59.16666667,3,1
+4/5/2023,9:50 PM,Blog,67,Statistics,Not Completed,,Night,59,1,2
+4/6/2023,6:30 PM,Book,31,Analytics,Completed,,Evening,25.83333333,3,2
+4/7/2023,9:18 PM,YouTube,68,Programming Fundamentals,Completed,,Night,56.66666667,3,1
+4/8/2023,10:53 PM,Blog,105,Data Science,Not Completed,,Night,56,2,1
+4/9/2023,6:10 PM,YouTube,41,Discrete Structures,Not Completed,,Evening,57,1,2
+4/10/2023,9:56 PM,Practice,107,Data Science,Not Completed,,Night,54,1,1
+4/11/2023,6:33 PM,YouTube,86,Statistics,Completed,,Evening,71.66666667,3,1
+4/12/2023,8:08 PM,ChatGPT,41,Statistics,Not Completed,,Evening,46,2,1
+4/13/2023,8:11 PM,Blog,43,Excel,Completed,,Evening,35.83333333,3,2
+4/14/2023,7:43 PM,YouTube,72,Programming Fundamentals,Not Completed,,Evening,41,1,1
+4/15/2023,6:58 PM,YouTube,64,Linear Geometry,Not Completed,,Evening,45,1,1
+4/16/2023,6:14 PM,ChatGPT,33,Neural Networks,Not Completed,,Evening,45,1,1
+4/17/2023,10:34 PM,Practice,102,LLM Models,Completed,,Night,85,3,2
+4/18/2023,8:40 PM,Online Course,65,C++,Completed,,Evening,54.16666667,3,2
+4/19/2023,9:52 PM,ChatGPT,120,AI,Not Completed,,Night,47,2,1
+4/20/2023,8:37 PM,Book,78,Data Science,Completed,,Evening,65,3,1
+4/21/2023,9:52 PM,Online Course,101,Data Structures,Completed,,Night,84.16666667,3,1
+4/22/2023,9:44 PM,Book,109,Analytics,Not Completed,,Night,36,2,1
+4/23/2023,9:31 PM,Book,70,Software Engineering,Completed,,Night,58.33333333,3,2
+4/24/2023,8:24 PM,YouTube,62,Java (OOP),Completed,,Evening,51.66666667,3,1
+4/25/2023,7:27 PM,Practice,45,Data Structures,Not Completed,,Evening,42,1,1
+4/26/2023,9:06 PM,Book,88,Calculus,Completed,,Night,73.33333333,3,1
+4/27/2023,6:07 PM,Blog,56,AI,Completed,,Evening,46.66666667,3,2
+4/28/2023,9:08 PM,Online Course,98,Discrete Structures,Not Completed,,Night,46,1,1
+4/29/2023,7:36 PM,Practice,76,Discrete Structures,Not Completed,,Evening,41,2,1
+4/30/2023,6:59 PM,YouTube,83,Deep Learning,Completed,,Evening,69.16666667,3,1
+5/1/2023,7:06 PM,YouTube,64,Data Structures,Not Completed,,Evening,47,1,2
+5/2/2023,6:18 PM,YouTube,120,Linear Geometry,Completed,,Evening,100,3,2
+5/3/2023,7:55 PM,ChatGPT,42,Discrete Structures,Completed,,Evening,35,3,1
+5/4/2023,10:59 PM,Book,117,Neural Networks,Completed,,Night,97.5,3,1
+5/5/2023,10:03 PM,ChatGPT,108,LLM Models,Completed,,Night,90,3,2
+5/6/2023,6:31 PM,ChatGPT,61,Calculus,Not Completed,,Evening,34,2,2
+5/7/2023,8:36 PM,Online Course,116,C++,Not Completed,,Evening,40,1,1
+5/8/2023,10:19 PM,Online Course,30,LLM Models,Completed,,Night,25,3,2
+5/9/2023,6:18 PM,Online Course,82,Projects,Not Completed,,Evening,31,1,2
+5/10/2023,6:58 PM,Book,107,C++,Completed,,Evening,89.16666667,3,1
+5/11/2023,6:16 PM,ChatGPT,75,Data Structures,Completed,,Evening,62.5,3,2
+5/12/2023,6:16 PM,ChatGPT,100,Analytics,Completed,,Evening,83.33333333,3,2
+5/13/2023,9:37 PM,Practice,39,Deep Learning,Not Completed,,Night,36,1,1
+5/14/2023,6:43 PM,Practice,106,Discrete Structures,Completed,,Evening,88.33333333,3,2
+5/15/2023,10:44 PM,YouTube,98,SQL,Completed,,Night,81.66666667,3,1
+5/16/2023,7:05 PM,ChatGPT,119,Statistics,Not Completed,,Evening,39,2,2
+5/17/2023,9:33 PM,Practice,62,Discrete Structures,Completed,,Night,51.66666667,3,1
+5/18/2023,6:12 PM,Online Course,37,AI,Not Completed,,Evening,48,2,2
+5/19/2023,10:31 PM,ChatGPT,117,Java (OOP),Not Completed,,Night,37,1,2
+5/20/2023,8:15 PM,Book,90,Programming Fundamentals,Completed,,Evening,75,3,1
+5/21/2023,6:56 PM,YouTube,69,Java (OOP),Not Completed,,Evening,42,2,2
+5/22/2023,10:42 PM,Online Course,61,Discrete Structures,Not Completed,,Night,51,1,1
+5/23/2023,9:58 PM,Book,67,Calculus,Not Completed,,Night,52,2,2
+5/24/2023,9:10 PM,Book,53,AI,Completed,,Night,44.16666667,3,2
+5/25/2023,6:56 PM,ChatGPT,39,Programming Fundamentals,Not Completed,,Evening,44,1,1
+5/26/2023,8:26 PM,Book,95,Software Engineering,Completed,,Evening,79.16666667,3,1
+5/27/2023,7:22 PM,Blog,30,Software Engineering,Not Completed,,Evening,55,2,2
+5/28/2023,7:24 PM,Online Course,52,Java (OOP),Completed,,Evening,43.33333333,3,1
+5/29/2023,8:16 PM,Book,90,Deep Learning,Not Completed,,Evening,60,2,1
+5/30/2023,10:25 PM,ChatGPT,41,Python Basics,Completed,,Night,34.16666667,3,2
+5/31/2023,7:03 PM,Practice,109,Digital Logic Design,Not Completed,,Evening,36,1,2
+6/1/2023,7:40 PM,ChatGPT,69,Deep Learning,Not Completed,,Evening,54,2,1
+6/2/2023,10:24 PM,Practice,67,Data Science,Completed,,Night,55.83333333,3,1
+6/3/2023,7:07 PM,Book,45,Software Engineering,Not Completed,,Evening,30,1,1
+6/4/2023,6:43 PM,ChatGPT,49,Neural Networks,Not Completed,,Evening,34,2,2
+6/5/2023,10:28 PM,Book,77,Deep Learning,Completed,,Night,64.16666667,3,2
+6/6/2023,6:50 PM,ChatGPT,38,Machine Learning,Completed,,Evening,31.66666667,3,2
+6/7/2023,9:44 PM,Online Course,105,Data Structures,Completed,,Night,87.5,3,2
+6/8/2023,6:21 PM,YouTube,105,Discrete Structures,Completed,,Evening,87.5,3,1
+6/9/2023,7:44 PM,ChatGPT,69,SQL,Completed,,Evening,57.5,3,1
+6/10/2023,8:03 PM,Book,69,Data Science,Completed,,Evening,57.5,3,2
+6/11/2023,8:39 PM,YouTube,101,AI,Not Completed,,Evening,54,1,1
+6/12/2023,6:01 PM,Online Course,100,C++,Not Completed,,Evening,49,2,2
+6/13/2023,8:27 PM,Practice,84,Data Structures,Completed,,Evening,70,3,2
+6/14/2023,9:30 PM,ChatGPT,44,Statistics,Not Completed,,Night,40,1,1
+6/15/2023,8:29 PM,Practice,95,Data Science,Completed,,Evening,79.16666667,3,1
+6/16/2023,8:28 PM,Blog,105,Neural Networks,Not Completed,,Evening,60,1,1
+6/17/2023,7:23 PM,Practice,46,Excel,Not Completed,,Evening,53,1,2
+6/18/2023,10:40 PM,Online Course,95,Programming Fundamentals,Not Completed,,Night,36,2,2
+6/19/2023,6:26 PM,YouTube,99,Analytics,Completed,,Evening,82.5,3,1
+6/20/2023,7:16 PM,ChatGPT,72,Excel,Not Completed,,Evening,54,1,2
+6/21/2023,6:52 PM,Blog,54,Programming Fundamentals,Completed,,Evening,45,3,1
+6/22/2023,7:26 PM,Online Course,41,Statistics,Not Completed,,Evening,34,2,2
+6/23/2023,6:07 PM,Book,39,Digital Logic Design,Not Completed,,Evening,37,1,1
+6/24/2023,10:47 PM,Blog,50,Software Engineering,Not Completed,,Night,41,1,1
+6/25/2023,6:31 PM,ChatGPT,50,Calculus,Not Completed,,Evening,40,2,1
+6/26/2023,10:37 PM,Blog,99,Linear Geometry,Not Completed,,Night,32,2,2
+6/27/2023,7:49 PM,Blog,85,Java (OOP),Not Completed,,Evening,34,1,2
+6/28/2023,6:13 PM,YouTube,62,Statistics,Completed,,Evening,51.66666667,3,2
+6/29/2023,9:12 PM,YouTube,89,Programming Fundamentals,Not Completed,,Night,57,2,2
+6/30/2023,7:27 PM,Online Course,72,Python Basics,Not Completed,,Evening,35,2,1
+7/1/2023,8:45 PM,Book,60,Discrete Structures,Completed,,Evening,50,3,1
+7/2/2023,6:23 PM,Online Course,98,Linear Geometry,Not Completed,,Evening,36,2,1
+7/3/2023,10:55 PM,Practice,98,Deep Learning,Completed,,Night,81.66666667,3,2
+7/4/2023,6:14 PM,Online Course,67,Programming Fundamentals,Completed,,Evening,55.83333333,3,2
+7/5/2023,7:05 PM,YouTube,36,Excel,Completed,,Evening,30,3,1
+7/6/2023,10:13 PM,Practice,44,C++,Not Completed,,Night,35,1,1
+7/7/2023,6:40 PM,YouTube,48,Machine Learning,Not Completed,,Evening,58,2,2
+7/8/2023,6:25 PM,ChatGPT,41,Python Basics,Not Completed,,Evening,43,2,2
+7/9/2023,7:48 PM,YouTube,67,Software Engineering,Completed,,Evening,55.83333333,3,1
+7/10/2023,9:22 PM,Online Course,59,Statistics,Completed,,Night,49.16666667,3,1
+7/11/2023,7:32 PM,Online Course,84,SQL,Not Completed,,Evening,51,2,2
+7/12/2023,10:04 PM,Blog,82,Python Basics,Not Completed,,Night,55,1,1
+7/13/2023,8:09 PM,YouTube,59,Digital Logic Design,Not Completed,,Evening,36,2,2
+7/14/2023,6:08 PM,Practice,30,AI,Completed,,Evening,25,3,1
+7/15/2023,6:42 PM,Online Course,94,Discrete Structures,Not Completed,,Evening,45,1,1
+7/16/2023,10:34 PM,Book,105,Data Structures,Completed,,Night,87.5,3,1
+7/17/2023,9:39 PM,YouTube,72,LLM Models,Not Completed,,Night,55,1,1
+7/18/2023,6:34 PM,Practice,61,Software Engineering,Completed,,Evening,50.83333333,3,2
+7/19/2023,9:40 PM,Practice,71,Programming Fundamentals,Completed,,Night,59.16666667,3,1
+7/20/2023,6:48 PM,ChatGPT,119,Programming Fundamentals,Not Completed,,Evening,35,2,2
+7/21/2023,9:50 PM,Blog,115,Excel,Completed,,Night,95.83333333,3,2
+7/22/2023,7:53 PM,ChatGPT,58,Linear Geometry,Completed,,Evening,48.33333333,3,1
+7/23/2023,7:57 PM,Book,76,Discrete Structures,Completed,,Evening,63.33333333,3,2
+7/24/2023,8:45 PM,ChatGPT,60,Data Structures,Not Completed,,Evening,39,2,1
+7/25/2023,10:20 PM,Blog,110,Digital Logic Design,Not Completed,,Night,55,1,2
+7/26/2023,6:41 PM,Blog,111,SQL,Not Completed,,Evening,32,2,2
+7/27/2023,7:48 PM,Blog,50,C++,Not Completed,,Evening,32,2,2
+7/28/2023,8:59 PM,Blog,117,Discrete Structures,Not Completed,,Evening,40,1,2
+7/29/2023,8:48 PM,Practice,45,Statistics,Not Completed,,Evening,50,2,1
+7/30/2023,10:36 PM,Blog,107,Neural Networks,Completed,,Night,89.16666667,3,2
+7/31/2023,9:06 PM,YouTube,96,Machine Learning,Not Completed,,Night,52,2,2
+8/1/2023,10:24 PM,Online Course,100,Machine Learning,Not Completed,,Night,57,2,2
+8/2/2023,9:46 PM,Book,73,Statistics,Completed,,Night,60.83333333,3,1
+8/3/2023,6:00 PM,Blog,107,Java (OOP),Not Completed,,Evening,57,2,2
+8/4/2023,6:07 PM,Book,64,Programming Fundamentals,Completed,,Evening,53.33333333,3,1
+8/5/2023,6:36 PM,Practice,67,Discrete Structures,Completed,,Evening,55.83333333,3,2
+8/6/2023,7:35 PM,ChatGPT,108,Java (OOP),Completed,,Evening,90,3,2
+8/7/2023,10:15 PM,Practice,120,C++,Completed,,Night,100,3,2
+8/8/2023,9:17 PM,Practice,102,Python Basics,Not Completed,,Night,42,1,2
+8/9/2023,9:04 PM,Online Course,100,Discrete Structures,Not Completed,,Night,53,1,2
+8/10/2023,10:16 PM,YouTube,66,SQL,Not Completed,,Night,48,2,2
+8/11/2023,9:56 PM,Online Course,33,Neural Networks,Completed,,Night,27.5,3,2
+8/12/2023,6:16 PM,Blog,91,Statistics,Not Completed,,Evening,54,2,1
+8/13/2023,7:42 PM,YouTube,80,Statistics,Completed,,Evening,66.66666667,3,1
+8/14/2023,7:14 PM,Blog,70,Statistics,Completed,,Evening,58.33333333,3,1
+8/15/2023,8:40 PM,YouTube,76,Machine Learning,Completed,,Evening,63.33333333,3,1
+8/16/2023,7:12 PM,Blog,65,SQL,Not Completed,,Evening,53,1,1
+8/17/2023,7:07 PM,YouTube,116,Data Structures,Completed,,Evening,96.66666667,3,2
+8/18/2023,7:03 PM,Practice,101,Data Structures,Not Completed,,Evening,39,2,1
+8/19/2023,9:00 PM,Book,81,AI,Completed,,Night,67.5,3,1
+8/20/2023,10:34 PM,ChatGPT,56,Software Engineering,Completed,,Night,46.66666667,3,1
+8/21/2023,8:43 PM,ChatGPT,96,Digital Logic Design,Completed,,Evening,80,3,1
+8/22/2023,7:34 PM,Blog,70,Machine Learning,Completed,,Evening,58.33333333,3,2
+8/23/2023,8:00 PM,Blog,40,Neural Networks,Not Completed,,Evening,48,2,2
+8/24/2023,10:20 PM,Practice,102,LLM Models,Not Completed,,Night,44,1,2
+8/25/2023,9:10 PM,Book,75,Excel,Not Completed,,Night,56,1,1
+8/26/2023,6:46 PM,ChatGPT,112,Neural Networks,Not Completed,,Evening,45,2,1
+8/27/2023,8:31 PM,Practice,94,C++,Not Completed,,Evening,33,1,1
+8/28/2023,10:19 PM,Practice,41,Python Basics,Completed,,Night,34.16666667,3,2
+8/29/2023,6:46 PM,Practice,94,Java (OOP),Not Completed,,Evening,31,1,2
+8/30/2023,8:44 PM,Blog,110,LLM Models,Not Completed,,Evening,33,1,1
+8/31/2023,9:07 PM,Online Course,45,Data Science,Not Completed,,Night,44,1,1
+9/1/2023,9:35 PM,Online Course,85,Calculus,Completed,,Night,70.83333333,3,1
+9/2/2023,9:43 PM,ChatGPT,75,Programming Fundamentals,Completed,,Night,62.5,3,1
+9/3/2023,6:53 PM,YouTube,45,Data Structures,Not Completed,,Evening,46,1,1
+9/4/2023,9:46 PM,Online Course,88,Neural Networks,Not Completed,,Night,42,2,2
+9/5/2023,10:45 PM,Book,117,Java (OOP),Not Completed,,Night,60,2,2
+9/6/2023,8:31 PM,Practice,44,Linear Geometry,Completed,,Evening,36.66666667,3,2
+9/7/2023,8:10 PM,ChatGPT,119,Programming Fundamentals,Not Completed,,Evening,59,1,1
+9/8/2023,9:29 PM,Book,87,Discrete Structures,Not Completed,,Night,58,1,1
+9/9/2023,9:32 PM,Online Course,118,Neural Networks,Not Completed,,Night,42,1,2
+9/10/2023,7:17 PM,Online Course,34,Discrete Structures,Completed,,Evening,28.33333333,3,2
+9/11/2023,7:35 PM,Online Course,104,Deep Learning,Not Completed,,Evening,59,1,2
+9/12/2023,8:44 PM,Online Course,71,Data Structures,Completed,,Evening,59.16666667,3,2
+9/13/2023,10:32 PM,Practice,111,C++,Not Completed,,Night,38,1,1
+9/14/2023,10:02 PM,YouTube,97,Programming Fundamentals,Completed,,Night,80.83333333,3,1
+9/15/2023,10:46 PM,ChatGPT,72,Excel,Completed,,Night,60,3,1
+9/16/2023,9:29 PM,YouTube,81,Python Basics,Not Completed,,Night,40,1,2
+9/17/2023,7:03 PM,YouTube,33,Excel,Not Completed,,Evening,59,2,2
+9/18/2023,10:22 PM,Book,85,Projects,Not Completed,,Night,52,2,1
+9/19/2023,10:59 PM,Online Course,90,Excel,Completed,,Night,75,3,1
+9/20/2023,9:27 PM,Book,94,Software Engineering,Completed,,Night,78.33333333,3,2
+9/21/2023,6:07 PM,Online Course,107,Neural Networks,Not Completed,,Evening,42,1,2
+9/22/2023,6:39 PM,Blog,73,Data Structures,Completed,,Evening,60.83333333,3,2
+9/23/2023,7:45 PM,Online Course,47,Discrete Structures,Not Completed,,Evening,49,1,2
+9/24/2023,8:10 PM,ChatGPT,61,Python Basics,Not Completed,,Evening,37,2,1
+9/25/2023,7:46 PM,YouTube,31,Java (OOP),Completed,,Evening,25.83333333,3,2
+9/26/2023,8:56 PM,Online Course,67,Discrete Structures,Not Completed,,Evening,51,1,2
+9/27/2023,10:46 PM,Blog,88,Machine Learning,Not Completed,,Night,47,1,2
+9/28/2023,7:56 PM,Practice,73,Calculus,Not Completed,,Evening,53,2,1
+9/29/2023,9:15 PM,ChatGPT,71,C++,Completed,,Night,59.16666667,3,2
+9/30/2023,9:43 PM,Book,30,Programming Fundamentals,Not Completed,,Night,59,1,1
+10/1/2023,8:52 PM,Blog,120,Neural Networks,Completed,,Evening,100,3,2
+10/2/2023,10:03 PM,YouTube,99,Linear Geometry,Not Completed,,Night,49,2,1
+10/3/2023,7:45 PM,YouTube,108,Calculus,Not Completed,,Evening,57,2,1
+10/4/2023,10:07 PM,Blog,54,Statistics,Completed,,Night,45,3,2
+10/5/2023,6:01 PM,Blog,79,Machine Learning,Not Completed,,Evening,33,1,1
+10/6/2023,7:50 PM,Online Course,51,Data Structures,Completed,,Evening,42.5,3,2
+10/7/2023,6:56 PM,Blog,75,C++,Not Completed,,Evening,57,2,2
+10/8/2023,7:50 PM,Online Course,67,Java (OOP),Completed,,Evening,55.83333333,3,1
+10/9/2023,10:42 PM,Book,31,Analytics,Completed,,Night,25.83333333,3,1
+10/10/2023,10:35 PM,Online Course,84,Computer Networks,Completed,,Night,70,3,2
+10/11/2023,9:30 PM,YouTube,117,Data Structures,Completed,,Night,97.5,3,2
+10/12/2023,10:47 PM,Online Course,65,C++,Not Completed,,Night,34,2,2
+10/13/2023,10:00 PM,ChatGPT,103,Linear Geometry,Not Completed,,Night,44,1,1
+10/14/2023,8:07 PM,ChatGPT,93,Excel,Completed,,Evening,77.5,3,1
+10/15/2023,10:19 PM,YouTube,99,Neural Networks,Completed,,Night,82.5,3,1
+10/16/2023,6:26 PM,YouTube,37,Programming Fundamentals,Completed,,Evening,30.83333333,3,2
+10/17/2023,6:10 PM,Book,67,SQL,Completed,,Evening,55.83333333,3,1
+10/18/2023,9:03 PM,ChatGPT,58,Calculus,Not Completed,,Night,52,1,1
+10/19/2023,10:24 PM,Blog,41,Data Structures,Completed,,Night,34.16666667,3,2
+10/20/2023,6:08 PM,ChatGPT,41,Statistics,Completed,,Evening,34.16666667,3,1
+10/21/2023,7:12 PM,Book,87,Analytics,Completed,,Evening,72.5,3,1
+10/22/2023,10:52 PM,Online Course,47,Neural Networks,Completed,,Night,39.16666667,3,1
+10/23/2023,9:56 PM,Online Course,109,SQL,Completed,,Night,90.83333333,3,2
+10/24/2023,7:45 PM,Online Course,68,Data Science,Completed,,Evening,56.66666667,3,1
+10/25/2023,10:24 PM,Online Course,112,Python Basics,Not Completed,,Night,43,2,2
+10/26/2023,8:15 PM,YouTube,93,Computer Networks,Completed,,Evening,77.5,3,2
+10/27/2023,7:56 PM,Book,48,Discrete Structures,Not Completed,,Evening,57,1,2
+10/28/2023,9:56 PM,YouTube,45,Calculus,Completed,,Night,37.5,3,1
+10/29/2023,10:58 PM,Blog,90,Programming Fundamentals,Completed,,Night,75,3,2
+10/30/2023,6:28 PM,Blog,52,C++,Not Completed,,Evening,60,1,2
+10/31/2023,6:23 PM,Practice,74,Projects,Completed,,Evening,61.66666667,3,2
+11/1/2023,8:29 PM,Online Course,54,LLM Models,Not Completed,,Evening,48,1,2
+11/2/2023,9:33 PM,Practice,71,Software Engineering,Completed,,Night,59.16666667,3,2
+11/3/2023,8:34 PM,ChatGPT,103,Discrete Structures,Not Completed,,Evening,49,1,1
+11/4/2023,8:39 PM,Blog,96,Statistics,Completed,,Evening,80,3,2
+11/5/2023,7:06 PM,Blog,57,Neural Networks,Not Completed,,Evening,50,1,1
+11/6/2023,8:57 PM,ChatGPT,94,Programming Fundamentals,Completed,,Evening,78.33333333,3,1
+11/7/2023,10:56 PM,Practice,113,Excel,Completed,,Night,94.16666667,3,1
+11/8/2023,6:32 PM,Book,119,C++,Completed,,Evening,99.16666667,3,1
+11/9/2023,7:49 PM,ChatGPT,99,Linear Geometry,Completed,,Evening,82.5,3,2
+11/10/2023,8:32 PM,Book,97,Projects,Not Completed,,Evening,43,1,2
+11/11/2023,6:18 PM,Book,38,Excel,Not Completed,,Evening,58,1,1
+11/12/2023,10:50 PM,YouTube,72,Calculus,Completed,,Night,60,3,1
+11/13/2023,7:50 PM,Book,42,SQL,Completed,,Evening,35,3,1
+11/14/2023,6:31 PM,YouTube,54,Statistics,Completed,,Evening,45,3,2
+11/15/2023,7:27 PM,Blog,64,Programming Fundamentals,Completed,,Evening,53.33333333,3,2
+11/16/2023,7:44 PM,YouTube,104,Neural Networks,Not Completed,,Evening,36,2,1
+11/17/2023,7:57 PM,Blog,104,Data Structures,Not Completed,,Evening,57,1,1
+11/18/2023,10:04 PM,Book,38,Discrete Structures,Completed,,Night,31.66666667,3,1
+11/19/2023,10:42 PM,Online Course,78,Computer Networks,Not Completed,,Night,46,1,1
+11/20/2023,10:28 PM,Practice,56,Programming Fundamentals,Not Completed,,Night,42,2,2
+11/21/2023,8:54 PM,Practice,38,Computer Networks,Completed,,Evening,31.66666667,3,1
+11/22/2023,9:51 PM,Book,110,Data Structures,Completed,,Night,91.66666667,3,2
+11/23/2023,8:10 PM,Book,102,Digital Logic Design,Not Completed,,Evening,31,2,1
+11/24/2023,9:36 PM,Practice,40,Digital Logic Design,Completed,,Night,33.33333333,3,2
+11/25/2023,7:11 PM,Book,95,Linear Geometry,Not Completed,,Evening,30,2,1
+11/26/2023,6:15 PM,Online Course,40,Java (OOP),Completed,,Evening,33.33333333,3,2
+11/27/2023,9:37 PM,Online Course,39,Analytics,Not Completed,,Night,49,2,1
+11/28/2023,8:00 PM,YouTube,47,Linear Geometry,Completed,,Evening,39.16666667,3,1
+11/29/2023,9:24 PM,Book,83,Python Basics,Not Completed,,Night,51,2,1
+11/30/2023,6:15 PM,Practice,39,Machine Learning,Completed,,Evening,32.5,3,1
+12/1/2023,9:26 PM,ChatGPT,95,Calculus,Completed,,Night,79.16666667,3,1
+12/2/2023,6:22 PM,Online Course,80,Excel,Not Completed,,Evening,36,1,2
+12/3/2023,6:10 PM,Practice,72,Programming Fundamentals,Completed,,Evening,60,3,2
+12/4/2023,6:36 PM,Online Course,60,Deep Learning,Not Completed,,Evening,32,2,2
+12/5/2023,8:25 PM,ChatGPT,72,Digital Logic Design,Not Completed,,Evening,58,2,2
+12/6/2023,8:51 PM,Practice,70,Deep Learning,Completed,,Evening,58.33333333,3,2
+12/7/2023,9:09 PM,Blog,62,Deep Learning,Completed,,Night,51.66666667,3,2
+12/8/2023,8:06 PM,YouTube,70,Discrete Structures,Completed,,Evening,58.33333333,3,2
+12/9/2023,9:53 PM,YouTube,96,C++,Completed,,Night,80,3,1
+12/10/2023,8:03 PM,Blog,66,Software Engineering,Not Completed,,Evening,39,2,2
+12/11/2023,7:48 PM,Book,94,Data Structures,Completed,,Evening,78.33333333,3,2
+12/12/2023,7:37 PM,Book,117,Machine Learning,Completed,,Evening,97.5,3,1
+12/13/2023,9:10 PM,Book,114,Data Structures,Completed,,Night,95,3,2
+12/14/2023,6:37 PM,YouTube,50,AI,Not Completed,,Evening,33,2,1
+12/15/2023,10:05 PM,Online Course,87,Linear Geometry,Not Completed,,Night,40,2,1
+12/16/2023,6:34 PM,Online Course,91,Statistics,Not Completed,,Evening,52,2,1
+12/17/2023,9:59 PM,Book,120,SQL,Completed,,Night,100,3,1
+12/18/2023,8:00 PM,ChatGPT,75,Deep Learning,Completed,,Evening,62.5,3,2
+12/19/2023,6:09 PM,Practice,108,Projects,Completed,,Evening,90,3,2
+12/20/2023,9:22 PM,ChatGPT,76,Digital Logic Design,Completed,,Night,63.33333333,3,2
+12/21/2023,10:31 PM,Online Course,106,Linear Geometry,Not Completed,,Night,34,2,2
+12/22/2023,9:29 PM,Book,85,Excel,Completed,,Night,70.83333333,3,1
+12/23/2023,10:26 PM,Blog,44,Statistics,Not Completed,,Night,45,2,2
+12/24/2023,10:20 PM,YouTube,53,Deep Learning,Completed,,Night,44.16666667,3,1
+12/25/2023,9:19 PM,ChatGPT,75,Programming Fundamentals,Not Completed,,Night,55,2,2
+12/26/2023,9:41 PM,Book,65,Neural Networks,Completed,,Night,54.16666667,3,2
+12/27/2023,10:38 PM,Online Course,84,Data Structures,Not Completed,,Night,44,1,2
+12/28/2023,10:58 PM,Online Course,91,Discrete Structures,Completed,,Night,75.83333333,3,1
+12/29/2023,7:13 PM,Book,119,Neural Networks,Completed,,Evening,99.16666667,3,2
+12/30/2023,6:30 PM,Online Course,115,Data Structures,Completed,,Evening,95.83333333,3,2
+12/31/2023,7:23 PM,Online Course,42,Data Science,Completed,,Evening,35,3,1
+1/1/2024,8:39 PM,ChatGPT,32,Data Structures,Completed,,Evening,26.66666667,3,2
+1/2/2024,6:18 PM,Book,67,SQL,Completed,,Evening,55.83333333,3,1
+1/3/2024,6:59 PM,YouTube,106,Linear Geometry,Not Completed,,Evening,44,2,2
+1/4/2024,8:19 PM,ChatGPT,110,Programming Fundamentals,Not Completed,,Evening,31,1,2
+1/5/2024,8:29 PM,Online Course,62,Calculus,Not Completed,,Evening,43,1,2
+1/6/2024,7:07 PM,Online Course,95,Python Basics,Not Completed,,Evening,37,1,2
+1/7/2024,6:37 PM,Practice,33,Data Science,Not Completed,,Evening,60,1,1
+1/8/2024,9:56 PM,Blog,74,SQL,Not Completed,,Night,39,1,2
+1/9/2024,9:40 PM,YouTube,94,Linear Geometry,Not Completed,,Night,55,1,1
+1/10/2024,9:40 PM,Blog,95,Computer Networks,Completed,,Night,79.16666667,3,1
+1/11/2024,10:40 PM,Online Course,90,Analytics,Completed,,Night,75,3,1
+1/12/2024,6:01 PM,Book,68,Data Structures,Completed,,Evening,56.66666667,3,2
+1/13/2024,6:25 PM,Blog,89,Calculus,Not Completed,,Evening,31,1,2
+1/14/2024,8:14 PM,ChatGPT,49,Software Engineering,Not Completed,,Evening,32,1,2
+1/15/2024,6:31 PM,ChatGPT,86,Linear Geometry,Not Completed,,Evening,58,1,2
+1/16/2024,10:38 PM,Blog,108,Machine Learning,Completed,,Night,90,3,2
+1/17/2024,8:30 PM,Practice,85,Linear Geometry,Not Completed,,Evening,30,1,2
+1/18/2024,8:49 PM,Book,116,Python Basics,Not Completed,,Evening,58,1,1
+1/19/2024,6:59 PM,Book,88,Data Science,Not Completed,,Evening,46,2,1
+1/20/2024,8:03 PM,Blog,57,C++,Completed,,Evening,47.5,3,2
+1/21/2024,9:58 PM,Practice,54,Programming Fundamentals,Completed,,Night,45,3,1
+1/22/2024,9:42 PM,Book,86,Java (OOP),Not Completed,,Night,33,1,1
+1/23/2024,10:52 PM,YouTube,34,Neural Networks,Not Completed,,Night,58,1,2
+1/24/2024,9:58 PM,Blog,87,SQL,Completed,,Night,72.5,3,1
+1/25/2024,8:30 PM,Online Course,65,Data Structures,Completed,,Evening,54.16666667,3,1
+1/26/2024,6:17 PM,YouTube,95,Discrete Structures,Completed,,Evening,79.16666667,3,1
+1/27/2024,6:16 PM,Blog,106,Digital Logic Design,Completed,,Evening,88.33333333,3,1
+1/28/2024,8:14 PM,YouTube,52,Discrete Structures,Completed,,Evening,43.33333333,3,2
+1/29/2024,7:24 PM,ChatGPT,37,Programming Fundamentals,Not Completed,,Evening,56,2,2
+1/30/2024,7:23 PM,Blog,57,AI,Completed,,Evening,47.5,3,2
+1/31/2024,10:57 PM,Practice,61,Computer Networks,Completed,,Night,50.83333333,3,1
+2/1/2024,8:44 PM,Online Course,106,Digital Logic Design,Completed,,Evening,88.33333333,3,1
+2/2/2024,9:13 PM,YouTube,72,Data Science,Completed,,Night,60,3,2
+2/3/2024,7:05 PM,ChatGPT,81,Computer Networks,Completed,,Evening,67.5,3,2
+2/4/2024,7:26 PM,ChatGPT,65,Projects,Completed,,Evening,54.16666667,3,2
+2/5/2024,6:26 PM,Online Course,35,Neural Networks,Completed,,Evening,29.16666667,3,1
+2/6/2024,9:33 PM,YouTube,85,Deep Learning,Completed,,Night,70.83333333,3,1
+2/7/2024,9:15 PM,Practice,73,Discrete Structures,Not Completed,,Night,59,2,1
+2/8/2024,8:03 PM,Practice,118,AI,Completed,,Evening,98.33333333,3,2
+2/9/2024,10:35 PM,ChatGPT,44,SQL,Completed,,Night,36.66666667,3,1
+2/10/2024,10:25 PM,Online Course,104,Computer Networks,Completed,,Night,86.66666667,3,1
+2/11/2024,6:13 PM,Practice,51,Calculus,Not Completed,,Evening,30,1,2
+2/12/2024,7:07 PM,ChatGPT,82,Python Basics,Not Completed,,Evening,59,2,2
+2/13/2024,7:41 PM,Blog,38,C++,Not Completed,,Evening,57,2,2
+2/14/2024,8:53 PM,Book,101,LLM Models,Completed,,Evening,84.16666667,3,2
+2/15/2024,10:10 PM,Book,63,Linear Geometry,Not Completed,,Night,57,2,2
+2/16/2024,8:26 PM,ChatGPT,59,Software Engineering,Not Completed,,Evening,52,2,1
+2/17/2024,9:00 PM,Online Course,112,Excel,Completed,,Night,93.33333333,3,2
+2/18/2024,6:45 PM,Book,70,Projects,Completed,,Evening,58.33333333,3,2
+2/19/2024,7:48 PM,YouTube,61,Java (OOP),Not Completed,,Evening,44,1,1
+2/20/2024,8:55 PM,Online Course,57,Discrete Structures,Not Completed,,Evening,42,1,2
+2/21/2024,8:01 PM,Blog,109,Calculus,Not Completed,,Evening,41,1,1
+2/22/2024,10:02 PM,Book,106,Data Science,Not Completed,,Night,43,2,2
+2/23/2024,6:55 PM,Blog,92,Deep Learning,Not Completed,,Evening,45,1,1
+2/24/2024,8:36 PM,Online Course,71,Calculus,Completed,,Evening,59.16666667,3,2
+2/25/2024,7:53 PM,Blog,109,Calculus,Not Completed,,Evening,36,1,1
+2/26/2024,10:04 PM,Blog,56,Digital Logic Design,Not Completed,,Night,56,1,1
+2/27/2024,10:29 PM,Book,30,Analytics,Not Completed,,Night,42,1,2
+2/28/2024,7:28 PM,Blog,61,Software Engineering,Completed,,Evening,50.83333333,3,2
+2/29/2024,9:46 PM,Book,95,Statistics,Not Completed,,Night,51,2,1
+3/1/2024,8:45 PM,Online Course,84,Python Basics,Not Completed,,Evening,55,2,2
+3/2/2024,6:34 PM,YouTube,80,Neural Networks,Not Completed,,Evening,41,2,2
+3/3/2024,8:48 PM,ChatGPT,63,Machine Learning,Completed,,Evening,52.5,3,2
+3/4/2024,8:27 PM,Book,78,Data Structures,Not Completed,,Evening,42,1,1
+3/5/2024,6:49 PM,Book,74,C++,Not Completed,,Evening,43,1,1
+3/6/2024,9:32 PM,Practice,47,Java (OOP),Not Completed,,Night,36,2,1
+3/7/2024,10:13 PM,Practice,88,C++,Completed,,Night,73.33333333,3,1
+3/8/2024,6:53 PM,Book,117,Programming Fundamentals,Not Completed,,Evening,47,1,1
+3/9/2024,6:25 PM,Book,67,C++,Completed,,Evening,55.83333333,3,2
+3/10/2024,8:49 PM,Online Course,71,Software Engineering,Not Completed,,Evening,58,1,1
+3/11/2024,8:05 PM,YouTube,92,C++,Not Completed,,Evening,51,2,2
+3/12/2024,9:21 PM,Book,42,Computer Networks,Completed,,Night,35,3,1
+3/13/2024,8:54 PM,YouTube,74,Digital Logic Design,Not Completed,,Evening,41,2,1
+3/14/2024,7:01 PM,ChatGPT,109,Linear Geometry,Not Completed,,Evening,45,1,2
+3/15/2024,10:38 PM,ChatGPT,35,Deep Learning,Not Completed,,Night,51,1,1
+3/16/2024,10:01 PM,YouTube,93,Python Basics,Completed,,Night,77.5,3,2
+3/17/2024,10:48 PM,Blog,97,Programming Fundamentals,Not Completed,,Night,59,2,1
+3/18/2024,7:41 PM,Blog,92,Projects,Completed,,Evening,76.66666667,3,1
+3/19/2024,6:13 PM,Practice,69,Software Engineering,Completed,,Evening,57.5,3,1
+3/20/2024,7:46 PM,Online Course,40,Data Science,Not Completed,,Evening,49,1,1
+3/21/2024,10:31 PM,Practice,69,Data Science,Not Completed,,Night,31,2,2
+3/22/2024,9:08 PM,Blog,48,Computer Networks,Not Completed,,Night,38,1,2
+3/23/2024,10:19 PM,Practice,104,Programming Fundamentals,Not Completed,,Night,31,2,1
+3/24/2024,9:16 PM,Online Course,42,Python Basics,Not Completed,,Night,55,2,1
+3/25/2024,10:02 PM,Book,79,SQL,Not Completed,,Night,38,2,2
+3/26/2024,8:41 PM,ChatGPT,59,Data Structures,Completed,,Evening,49.16666667,3,2
+3/27/2024,10:28 PM,Book,31,Analytics,Completed,,Night,25.83333333,3,2
+3/28/2024,9:45 PM,Practice,43,Linear Geometry,Not Completed,,Night,34,2,1
+3/29/2024,7:27 PM,Online Course,120,Digital Logic Design,Completed,,Evening,100,3,2
+3/30/2024,10:53 PM,Practice,103,C++,Completed,,Night,85.83333333,3,1
+3/31/2024,7:09 PM,Practice,120,Programming Fundamentals,Not Completed,,Evening,55,1,1
+4/1/2024,10:51 PM,Book,48,Excel,Completed,,Night,40,3,1
+4/2/2024,10:05 PM,Online Course,51,Calculus,Completed,,Night,42.5,3,2
+4/3/2024,10:21 PM,Book,82,Statistics,Completed,,Night,68.33333333,3,1
+4/4/2024,9:18 PM,YouTube,72,Deep Learning,Completed,,Night,60,3,2
+4/5/2024,9:23 PM,Online Course,119,Calculus,Not Completed,,Night,45,1,1
+4/6/2024,8:18 PM,Online Course,118,Projects,Completed,,Evening,98.33333333,3,2
+4/7/2024,7:56 PM,YouTube,88,Programming Fundamentals,Not Completed,,Evening,55,1,1
+4/8/2024,10:42 PM,Book,85,Data Structures,Completed,,Night,70.83333333,3,1
+4/9/2024,10:54 PM,Book,102,Linear Geometry,Completed,,Night,85,3,2
+4/10/2024,8:58 PM,Practice,105,Neural Networks,Completed,,Evening,87.5,3,2
+4/11/2024,8:59 PM,Blog,82,Digital Logic Design,Not Completed,,Evening,43,2,1
+4/12/2024,7:40 PM,Online Course,53,LLM Models,Not Completed,,Evening,46,2,1
+4/13/2024,7:16 PM,Practice,80,C++,Not Completed,,Evening,60,2,2
+4/14/2024,10:08 PM,Online Course,110,Analytics,Not Completed,,Night,49,2,2
+4/15/2024,8:22 PM,Blog,48,Discrete Structures,Completed,,Evening,40,3,1
+4/16/2024,7:06 PM,ChatGPT,50,Linear Geometry,Completed,,Evening,41.66666667,3,2
+4/17/2024,10:36 PM,Book,55,Data Structures,Completed,,Night,45.83333333,3,1
+4/18/2024,10:24 PM,YouTube,101,Java (OOP),Not Completed,,Night,45,2,2
+4/19/2024,9:08 PM,Practice,57,Python Basics,Completed,,Night,47.5,3,1
+4/20/2024,9:49 PM,Online Course,37,C++,Completed,,Night,30.83333333,3,1
+4/21/2024,8:02 PM,YouTube,32,Java (OOP),Completed,,Evening,26.66666667,3,2
+4/22/2024,6:39 PM,Blog,39,Programming Fundamentals,Completed,,Evening,32.5,3,1
+4/23/2024,6:05 PM,Blog,96,Java (OOP),Completed,,Evening,80,3,1
+4/24/2024,7:34 PM,Book,113,Java (OOP),Not Completed,,Evening,36,1,1
+4/25/2024,8:26 PM,Blog,61,Calculus,Completed,,Evening,50.83333333,3,1
+4/26/2024,6:07 PM,Book,118,Data Science,Not Completed,,Evening,60,2,1
+4/27/2024,9:27 PM,ChatGPT,93,Linear Geometry,Completed,,Night,77.5,3,1
+4/28/2024,9:36 PM,Blog,67,LLM Models,Completed,,Night,55.83333333,3,1
+4/29/2024,7:18 PM,ChatGPT,41,Analytics,Completed,,Evening,34.16666667,3,1
+4/30/2024,8:15 PM,Online Course,47,Deep Learning,Completed,,Evening,39.16666667,3,2
+5/1/2024,6:19 PM,Blog,44,Python Basics,Completed,,Evening,36.66666667,3,1
+5/2/2024,10:21 PM,Book,112,Machine Learning,Completed,,Night,93.33333333,3,2
+5/3/2024,9:38 PM,Book,104,Software Engineering,Not Completed,,Night,47,2,2
+5/4/2024,10:55 PM,Online Course,37,Analytics,Completed,,Night,30.83333333,3,1
+5/5/2024,6:35 PM,Practice,94,SQL,Completed,,Evening,78.33333333,3,1
+5/6/2024,8:45 PM,Blog,112,Digital Logic Design,Completed,,Evening,93.33333333,3,1
+5/7/2024,6:20 PM,Book,72,Discrete Structures,Not Completed,,Evening,46,2,1
+5/8/2024,10:05 PM,Practice,30,Statistics,Completed,,Night,25,3,2
+5/9/2024,10:41 PM,YouTube,89,Neural Networks,Completed,,Night,74.16666667,3,2
+5/10/2024,10:45 PM,YouTube,82,Calculus,Completed,,Night,68.33333333,3,1
+5/11/2024,10:27 PM,Practice,101,Machine Learning,Not Completed,,Night,58,1,2
+5/12/2024,8:12 PM,Book,76,Calculus,Completed,,Evening,63.33333333,3,1
+5/13/2024,8:34 PM,Book,77,SQL,Completed,,Evening,64.16666667,3,1
+5/14/2024,9:14 PM,YouTube,70,Machine Learning,Not Completed,,Night,40,1,1
+5/15/2024,9:57 PM,Online Course,90,Discrete Structures,Not Completed,,Night,50,2,1
+5/16/2024,8:51 PM,Online Course,61,Analytics,Not Completed,,Evening,41,2,2
+5/17/2024,10:55 PM,Book,104,Discrete Structures,Not Completed,,Night,36,1,2
+5/18/2024,8:21 PM,Blog,90,Computer Networks,Completed,,Evening,75,3,2
+5/19/2024,10:59 PM,ChatGPT,103,Computer Networks,Completed,,Night,85.83333333,3,2
+5/20/2024,10:30 PM,Online Course,98,LLM Models,Completed,,Night,81.66666667,3,1
+5/21/2024,6:05 PM,YouTube,94,Analytics,Completed,,Evening,78.33333333,3,2
+5/22/2024,6:58 PM,YouTube,45,C++,Completed,,Evening,37.5,3,2
+5/23/2024,9:47 PM,Online Course,50,Software Engineering,Not Completed,,Night,32,1,2
+5/24/2024,8:23 PM,Online Course,119,Discrete Structures,Not Completed,,Evening,54,1,2
+5/25/2024,8:10 PM,Book,101,Calculus,Not Completed,,Evening,57,1,2
+5/26/2024,8:55 PM,ChatGPT,89,Software Engineering,Completed,,Evening,74.16666667,3,1
+5/27/2024,10:14 PM,Book,32,Discrete Structures,Completed,,Night,26.66666667,3,1
+5/28/2024,7:43 PM,YouTube,119,AI,Not Completed,,Evening,33,1,2
+5/29/2024,10:04 PM,Online Course,92,LLM Models,Completed,,Night,76.66666667,3,2
+5/30/2024,10:42 PM,YouTube,33,Software Engineering,Not Completed,,Night,47,2,2
+5/31/2024,8:59 PM,YouTube,70,C++,Not Completed,,Evening,44,1,1
+6/1/2024,10:11 PM,Book,101,Data Structures,Completed,,Night,84.16666667,3,1
+6/2/2024,10:44 PM,ChatGPT,71,LLM Models,Completed,,Night,59.16666667,3,2
+6/3/2024,10:47 PM,Practice,51,Excel,Completed,,Night,42.5,3,2
+6/4/2024,8:13 PM,Blog,53,Python Basics,Not Completed,,Evening,49,1,1
+6/5/2024,10:55 PM,Blog,41,Digital Logic Design,Not Completed,,Night,44,2,2
+6/6/2024,7:50 PM,YouTube,89,SQL,Completed,,Evening,74.16666667,3,2
+6/7/2024,8:46 PM,ChatGPT,37,Digital Logic Design,Completed,,Evening,30.83333333,3,2
+6/8/2024,7:28 PM,YouTube,71,Discrete Structures,Not Completed,,Evening,46,1,1
+6/9/2024,9:18 PM,Book,84,Neural Networks,Not Completed,,Night,46,1,1
+6/10/2024,9:00 PM,Practice,42,Analytics,Completed,,Night,35,3,1
+6/11/2024,6:26 PM,Book,100,Calculus,Completed,,Evening,83.33333333,3,1
+6/12/2024,7:31 PM,Practice,103,Neural Networks,Completed,,Evening,85.83333333,3,1
+6/13/2024,7:31 PM,Online Course,66,Software Engineering,Completed,,Evening,55,3,2
+6/14/2024,10:58 PM,Blog,32,Neural Networks,Completed,,Night,26.66666667,3,2
+6/15/2024,8:41 PM,YouTube,113,Statistics,Completed,,Evening,94.16666667,3,2
+6/16/2024,10:53 PM,YouTube,68,Analytics,Completed,,Night,56.66666667,3,2
+6/17/2024,10:08 PM,Book,57,Software Engineering,Completed,,Night,47.5,3,1
+6/18/2024,7:27 PM,Practice,67,AI,Completed,,Evening,55.83333333,3,2
+6/19/2024,10:01 PM,Blog,105,Digital Logic Design,Not Completed,,Night,30,1,2
+6/20/2024,9:15 PM,Online Course,39,C++,Not Completed,,Night,39,2,2
+6/21/2024,6:56 PM,YouTube,51,Java (OOP),Not Completed,,Evening,44,2,2
+6/22/2024,9:53 PM,ChatGPT,115,AI,Not Completed,,Night,42,2,1
+6/23/2024,6:54 PM,ChatGPT,73,Programming Fundamentals,Completed,,Evening,60.83333333,3,2
+6/24/2024,6:03 PM,Blog,34,Excel,Not Completed,,Evening,47,1,1
+6/25/2024,10:52 PM,Practice,86,Excel,Not Completed,,Night,35,1,2
+6/26/2024,6:17 PM,Practice,41,Machine Learning,Not Completed,,Evening,31,1,1
+6/27/2024,9:47 PM,Online Course,90,Linear Geometry,Not Completed,,Night,39,2,1
+6/28/2024,6:10 PM,YouTube,88,Deep Learning,Not Completed,,Evening,48,2,1
+6/29/2024,7:41 PM,Book,50,Machine Learning,Completed,,Evening,41.66666667,3,1
+6/30/2024,6:43 PM,Practice,106,Machine Learning,Completed,,Evening,88.33333333,3,1
+7/1/2024,7:42 PM,Practice,109,Projects,Not Completed,,Evening,41,2,2
+7/2/2024,6:30 PM,Blog,118,Projects,Completed,,Evening,98.33333333,3,1
+7/3/2024,10:58 PM,Practice,67,Data Science,Not Completed,,Night,60,2,1
+7/4/2024,7:00 PM,YouTube,67,Calculus,Not Completed,,Evening,37,1,1
+7/5/2024,8:44 PM,YouTube,79,Software Engineering,Completed,,Evening,65.83333333,3,2
+7/6/2024,9:03 PM,YouTube,117,Data Structures,Not Completed,,Night,54,1,2
+7/7/2024,7:33 PM,Book,67,Digital Logic Design,Not Completed,,Evening,45,1,2
+7/8/2024,7:44 PM,ChatGPT,37,Python Basics,Completed,,Evening,30.83333333,3,1
+7/9/2024,6:07 PM,YouTube,93,C++,Completed,,Evening,77.5,3,1
+7/10/2024,6:11 PM,Book,35,Programming Fundamentals,Completed,,Evening,29.16666667,3,1
+7/11/2024,10:20 PM,Blog,31,Java (OOP),Not Completed,,Night,42,1,2
+7/12/2024,7:31 PM,Online Course,94,Java (OOP),Completed,,Evening,78.33333333,3,2
+7/13/2024,6:00 PM,Book,86,Data Structures,Completed,,Evening,71.66666667,3,1
+7/14/2024,6:45 PM,Practice,88,SQL,Not Completed,,Evening,45,1,2
+7/15/2024,10:00 PM,ChatGPT,79,Calculus,Completed,,Night,65.83333333,3,2
+7/16/2024,7:23 PM,Blog,81,Digital Logic Design,Completed,,Evening,67.5,3,1
+7/17/2024,7:37 PM,Practice,62,Java (OOP),Not Completed,,Evening,33,1,2
+7/18/2024,8:04 PM,Online Course,43,Programming Fundamentals,Completed,,Evening,35.83333333,3,2
+7/19/2024,8:57 PM,YouTube,58,Projects,Completed,,Evening,48.33333333,3,2
+7/20/2024,8:31 PM,Practice,89,Neural Networks,Not Completed,,Evening,51,2,2
+7/21/2024,8:19 PM,Practice,79,LLM Models,Not Completed,,Evening,39,2,1
+7/22/2024,10:02 PM,Book,114,Programming Fundamentals,Not Completed,,Night,38,1,1
+7/23/2024,6:05 PM,Blog,95,AI,Not Completed,,Evening,36,2,2
+7/24/2024,9:45 PM,Book,31,Deep Learning,Not Completed,,Night,32,1,2
+7/25/2024,10:03 PM,Online Course,45,Neural Networks,Not Completed,,Night,55,2,1
+7/26/2024,8:55 PM,Online Course,35,C++,Completed,,Evening,29.16666667,3,2
+7/27/2024,8:08 PM,YouTube,84,Data Science,Not Completed,,Evening,51,1,1
+7/28/2024,8:24 PM,ChatGPT,101,Java (OOP),Completed,,Evening,84.16666667,3,1
+7/29/2024,9:53 PM,Online Course,118,LLM Models,Not Completed,,Night,44,1,1
+7/30/2024,7:18 PM,Blog,104,Machine Learning,Completed,,Evening,86.66666667,3,1
+7/31/2024,6:43 PM,Practice,112,Computer Networks,Not Completed,,Evening,46,1,2
+8/1/2024,9:56 PM,Practice,87,SQL,Completed,,Night,72.5,3,2
+8/2/2024,8:14 PM,ChatGPT,59,Calculus,Not Completed,,Evening,44,1,1
+8/3/2024,7:56 PM,ChatGPT,107,Deep Learning,Not Completed,,Evening,37,2,1
+8/4/2024,6:57 PM,YouTube,47,Linear Geometry,Not Completed,,Evening,57,1,1
+8/5/2024,8:33 PM,YouTube,84,Data Structures,Not Completed,,Evening,44,1,1
+8/6/2024,7:52 PM,ChatGPT,76,AI,Completed,,Evening,63.33333333,3,1
+8/7/2024,9:05 PM,YouTube,70,Machine Learning,Not Completed,,Night,38,1,1
+8/8/2024,9:57 PM,Book,94,Digital Logic Design,Not Completed,,Night,50,2,1
+8/9/2024,8:28 PM,ChatGPT,57,Computer Networks,Not Completed,,Evening,33,2,2
+8/10/2024,6:43 PM,YouTube,88,Deep Learning,Not Completed,,Evening,30,1,1
+8/11/2024,8:21 PM,ChatGPT,58,Calculus,Not Completed,,Evening,54,1,2
+8/12/2024,8:07 PM,YouTube,101,Machine Learning,Not Completed,,Evening,57,1,2
+8/13/2024,8:28 PM,Online Course,42,Programming Fundamentals,Completed,,Evening,35,3,2
+8/14/2024,6:45 PM,YouTube,51,Neural Networks,Completed,,Evening,42.5,3,2
+8/15/2024,6:01 PM,Blog,86,Digital Logic Design,Completed,,Evening,71.66666667,3,2
+8/16/2024,6:08 PM,Online Course,31,Programming Fundamentals,Completed,,Evening,25.83333333,3,1
+8/17/2024,9:21 PM,Online Course,86,Analytics,Completed,,Night,71.66666667,3,2
+8/18/2024,7:50 PM,Book,56,Projects,Not Completed,,Evening,30,1,1
+8/19/2024,9:13 PM,Online Course,118,Projects,Not Completed,,Night,57,2,2
+8/20/2024,6:42 PM,Book,71,Programming Fundamentals,Not Completed,,Evening,45,1,1
+8/21/2024,10:00 PM,Book,42,Data Science,Completed,,Night,35,3,2
+8/22/2024,7:07 PM,Online Course,86,Statistics,Completed,,Evening,71.66666667,3,2
+8/23/2024,10:51 PM,Practice,54,Software Engineering,Not Completed,,Night,43,2,1
+8/24/2024,9:49 PM,YouTube,109,AI,Not Completed,,Night,55,1,1
+8/25/2024,8:38 PM,Practice,49,Software Engineering,Not Completed,,Evening,57,2,1
+8/26/2024,9:33 PM,Practice,42,Data Science,Not Completed,,Night,54,1,1
+8/27/2024,10:28 PM,Blog,87,Projects,Completed,,Night,72.5,3,2
+8/28/2024,9:12 PM,ChatGPT,65,Analytics,Not Completed,,Night,59,1,1
+8/29/2024,8:27 PM,Book,56,Python Basics,Not Completed,,Evening,44,2,2
+8/30/2024,8:13 PM,ChatGPT,105,Data Structures,Completed,,Evening,87.5,3,1
+8/31/2024,6:21 PM,Online Course,107,Analytics,Not Completed,,Evening,41,1,1
+9/1/2024,9:48 PM,Online Course,81,Statistics,Completed,,Night,67.5,3,1
+9/2/2024,6:33 PM,Practice,51,Python Basics,Completed,,Evening,42.5,3,1
+9/3/2024,9:23 PM,ChatGPT,91,Python Basics,Not Completed,,Night,50,1,2
+9/4/2024,7:31 PM,Blog,60,C++,Completed,,Evening,50,3,2
+9/5/2024,6:40 PM,Book,103,Discrete Structures,Completed,,Evening,85.83333333,3,2
+9/6/2024,8:05 PM,Book,45,Projects,Not Completed,,Evening,31,1,1
+9/7/2024,6:15 PM,ChatGPT,59,Java (OOP),Completed,,Evening,49.16666667,3,1
+9/8/2024,9:09 PM,Online Course,92,Statistics,Not Completed,,Night,40,2,1
+9/9/2024,10:09 PM,YouTube,41,Linear Geometry,Completed,,Night,34.16666667,3,1
+9/10/2024,6:24 PM,ChatGPT,82,Linear Geometry,Completed,,Evening,68.33333333,3,2
+9/11/2024,9:47 PM,ChatGPT,93,Data Structures,Completed,,Night,77.5,3,1
+9/12/2024,10:15 PM,Blog,103,Analytics,Not Completed,,Night,57,1,1
+9/13/2024,8:54 PM,Online Course,40,Linear Geometry,Not Completed,,Evening,41,2,2
+9/14/2024,10:43 PM,Blog,120,C++,Not Completed,,Night,32,2,1
+9/15/2024,8:51 PM,Online Course,63,Programming Fundamentals,Not Completed,,Evening,59,2,2
+9/16/2024,10:12 PM,Blog,92,Linear Geometry,Not Completed,,Night,54,1,1
+9/17/2024,8:59 PM,Online Course,43,SQL,Completed,,Evening,35.83333333,3,2
+9/18/2024,9:24 PM,ChatGPT,42,Data Structures,Not Completed,,Night,43,1,2
+9/19/2024,8:40 PM,Practice,86,Neural Networks,Completed,,Evening,71.66666667,3,2
+9/20/2024,8:07 PM,YouTube,118,Statistics,Completed,,Evening,98.33333333,3,1
+9/21/2024,9:51 PM,Blog,73,Python Basics,Completed,,Night,60.83333333,3,1
+9/22/2024,6:00 PM,Online Course,76,LLM Models,Not Completed,,Evening,44,1,1
+9/23/2024,9:04 PM,Book,54,C++,Not Completed,,Night,47,2,1
+9/24/2024,7:49 PM,ChatGPT,33,LLM Models,Not Completed,,Evening,47,2,2
+9/25/2024,10:05 PM,Book,106,LLM Models,Not Completed,,Night,47,1,1
+9/26/2024,8:01 PM,Practice,73,Discrete Structures,Not Completed,,Evening,44,1,1
+9/27/2024,6:54 PM,Practice,40,C++,Not Completed,,Evening,52,2,1
+9/28/2024,7:54 PM,YouTube,101,Data Science,Not Completed,,Evening,57,2,2
+9/29/2024,7:42 PM,ChatGPT,114,Deep Learning,Not Completed,,Evening,57,1,1
+9/30/2024,6:21 PM,Blog,49,Neural Networks,Completed,,Evening,40.83333333,3,1
+10/1/2024,10:06 PM,ChatGPT,65,Python Basics,Completed,,Night,54.16666667,3,1
+10/2/2024,6:47 PM,Online Course,61,LLM Models,Completed,,Evening,50.83333333,3,1
+10/3/2024,10:03 PM,Book,56,Data Structures,Not Completed,,Night,47,2,2
+10/4/2024,7:50 PM,Blog,114,Java (OOP),Completed,,Evening,95,3,2
+10/5/2024,9:40 PM,Blog,33,Computer Networks,Completed,,Night,27.5,3,1
+10/6/2024,7:29 PM,Blog,91,LLM Models,Completed,,Evening,75.83333333,3,2
+10/7/2024,10:23 PM,Blog,76,Computer Networks,Completed,,Night,63.33333333,3,2
+10/8/2024,10:45 PM,YouTube,31,AI,Completed,,Night,25.83333333,3,1
+10/9/2024,10:26 PM,Blog,119,Computer Networks,Not Completed,,Night,56,1,1
+10/10/2024,10:35 PM,Book,77,Analytics,Not Completed,,Night,32,2,2
+10/11/2024,6:42 PM,Book,42,Digital Logic Design,Completed,,Evening,35,3,1
+10/12/2024,9:53 PM,YouTube,75,Statistics,Completed,,Night,62.5,3,1
+10/13/2024,6:40 PM,Blog,77,Data Science,Not Completed,,Evening,57,2,1
+10/14/2024,8:11 PM,YouTube,117,Software Engineering,Completed,,Evening,97.5,3,2
+10/15/2024,10:15 PM,Blog,86,C++,Completed,,Night,71.66666667,3,2
+10/16/2024,9:14 PM,Practice,86,Analytics,Completed,,Night,71.66666667,3,2
+10/17/2024,7:54 PM,ChatGPT,50,Neural Networks,Completed,,Evening,41.66666667,3,2
+10/18/2024,9:35 PM,YouTube,55,Data Science,Not Completed,,Night,45,1,1
+10/19/2024,7:14 PM,Practice,80,LLM Models,Not Completed,,Evening,60,1,1
+10/20/2024,7:45 PM,Online Course,94,Calculus,Not Completed,,Evening,33,2,1
+10/21/2024,8:59 PM,Practice,46,Excel,Completed,,Evening,38.33333333,3,1
+10/22/2024,8:44 PM,Online Course,91,Data Science,Not Completed,,Evening,60,2,2
+10/23/2024,8:50 PM,Online Course,80,Java (OOP),Not Completed,,Evening,39,1,2
+10/24/2024,7:17 PM,Practice,88,Excel,Completed,,Evening,73.33333333,3,1
+10/25/2024,10:30 PM,ChatGPT,114,AI,Completed,,Night,95,3,2
+10/26/2024,7:34 PM,Online Course,39,SQL,Completed,,Evening,32.5,3,2
+10/27/2024,7:32 PM,Practice,48,Software Engineering,Completed,,Evening,40,3,2
+10/28/2024,10:12 PM,YouTube,107,Calculus,Not Completed,,Night,46,2,1
+10/29/2024,6:00 PM,Practice,98,Linear Geometry,Not Completed,,Evening,33,2,1
+10/30/2024,8:27 PM,Blog,53,Linear Geometry,Completed,,Evening,44.16666667,3,2
+10/31/2024,7:33 PM,Book,87,Linear Geometry,Completed,,Evening,72.5,3,1
+11/1/2024,9:28 PM,Book,86,Software Engineering,Not Completed,,Night,58,2,2
+11/2/2024,7:28 PM,Online Course,43,C++,Not Completed,,Evening,48,2,2
+11/3/2024,9:32 PM,Practice,100,Computer Networks,Completed,,Night,83.33333333,3,2
+11/4/2024,6:01 PM,Blog,82,AI,Not Completed,,Evening,41,1,2
+11/5/2024,6:25 PM,Blog,105,Computer Networks,Completed,,Evening,87.5,3,1
+11/6/2024,10:08 PM,Practice,119,Data Structures,Not Completed,,Night,54,1,1
+11/7/2024,8:59 PM,Practice,85,Neural Networks,Completed,,Evening,70.83333333,3,2
+11/8/2024,6:17 PM,Book,71,Digital Logic Design,Completed,,Evening,59.16666667,3,1
+11/9/2024,10:51 PM,YouTube,38,Projects,Not Completed,,Night,46,2,1
+11/10/2024,6:32 PM,Blog,74,Excel,Not Completed,,Evening,50,1,2
+11/11/2024,10:12 PM,Practice,117,Java (OOP),Completed,,Night,97.5,3,1
+11/12/2024,8:08 PM,Online Course,89,Discrete Structures,Not Completed,,Evening,44,1,2
+11/13/2024,6:24 PM,Book,116,Projects,Completed,,Evening,96.66666667,3,2
+11/14/2024,9:53 PM,Blog,106,SQL,Not Completed,,Night,57,2,1
+11/15/2024,9:20 PM,ChatGPT,53,Software Engineering,Completed,,Night,44.16666667,3,1
+11/16/2024,6:17 PM,ChatGPT,69,Excel,Completed,,Evening,57.5,3,1
+11/17/2024,6:19 PM,ChatGPT,118,Calculus,Not Completed,,Evening,56,2,1
+11/18/2024,6:02 PM,Blog,119,Neural Networks,Not Completed,,Evening,50,2,1
+11/19/2024,9:47 PM,Book,53,Deep Learning,Not Completed,,Night,32,2,2
+11/20/2024,8:51 PM,ChatGPT,50,Discrete Structures,Completed,,Evening,41.66666667,3,2
+11/21/2024,9:10 PM,Practice,102,Excel,Not Completed,,Night,58,2,1
+11/22/2024,10:59 PM,Blog,34,Data Structures,Completed,,Night,28.33333333,3,1
+11/23/2024,8:25 PM,Book,63,Excel,Not Completed,,Evening,30,2,2
+11/24/2024,9:05 PM,ChatGPT,49,Software Engineering,Not Completed,,Night,30,2,2
+11/25/2024,8:25 PM,ChatGPT,111,Java (OOP),Not Completed,,Evening,49,1,2
+11/26/2024,9:48 PM,Blog,116,Data Structures,Not Completed,,Night,36,1,1
+11/27/2024,7:34 PM,YouTube,67,Linear Geometry,Completed,,Evening,55.83333333,3,1
+11/28/2024,9:02 PM,Online Course,101,Data Structures,Completed,,Night,84.16666667,3,1
+11/29/2024,10:28 PM,Online Course,90,Linear Geometry,Completed,,Night,75,3,1
+11/30/2024,7:45 PM,Practice,68,SQL,Not Completed,,Evening,40,2,1
+12/1/2024,6:25 PM,YouTube,70,Statistics,Completed,,Evening,58.33333333,3,2
+12/2/2024,8:36 PM,Book,75,Discrete Structures,Completed,,Evening,62.5,3,2
+12/3/2024,7:10 PM,Practice,62,Excel,Not Completed,,Evening,59,2,1
+12/4/2024,6:07 PM,Book,49,Discrete Structures,Not Completed,,Evening,54,2,1
+12/5/2024,9:54 PM,Blog,34,Digital Logic Design,Completed,,Night,28.33333333,3,1
+12/6/2024,9:41 PM,Practice,65,Data Structures,Completed,,Night,54.16666667,3,2
+12/7/2024,6:33 PM,Practice,76,Linear Geometry,Completed,,Evening,63.33333333,3,2
+12/8/2024,6:18 PM,ChatGPT,59,Statistics,Completed,,Evening,49.16666667,3,2
+12/9/2024,7:09 PM,Online Course,106,C++,Completed,,Evening,88.33333333,3,2
+12/10/2024,10:30 PM,ChatGPT,117,Neural Networks,Completed,,Night,97.5,3,2
+12/11/2024,10:27 PM,YouTube,83,Software Engineering,Completed,,Night,69.16666667,3,2
+12/12/2024,6:44 PM,Online Course,119,Digital Logic Design,Not Completed,,Evening,58,2,1
+12/13/2024,9:09 PM,ChatGPT,83,Data Science,Completed,,Night,69.16666667,3,2
+12/14/2024,9:45 PM,Practice,76,Data Structures,Completed,,Night,63.33333333,3,1
+12/15/2024,9:53 PM,YouTube,48,Software Engineering,Completed,,Night,40,3,2
+12/16/2024,7:08 PM,Online Course,70,Computer Networks,Completed,,Evening,58.33333333,3,2
+12/17/2024,9:59 PM,ChatGPT,94,Java (OOP),Not Completed,,Night,54,1,1
+12/18/2024,7:33 PM,Online Course,86,Statistics,Completed,,Evening,71.66666667,3,1
+12/19/2024,9:20 PM,Practice,112,SQL,Not Completed,,Night,60,1,1
+12/20/2024,9:07 PM,YouTube,94,LLM Models,Completed,,Night,78.33333333,3,1
+12/21/2024,6:23 PM,YouTube,39,Java (OOP),Not Completed,,Evening,36,2,2
+12/22/2024,6:30 PM,Practice,61,LLM Models,Completed,,Evening,50.83333333,3,1
+12/23/2024,8:41 PM,Practice,61,Calculus,Not Completed,,Evening,58,1,1
+12/24/2024,10:35 PM,Blog,53,SQL,Not Completed,,Night,35,2,1
+12/25/2024,10:53 PM,Practice,65,Python Basics,Not Completed,,Night,36,1,1
+12/26/2024,10:59 PM,Book,99,SQL,Completed,,Night,82.5,3,2
+12/27/2024,7:45 PM,ChatGPT,116,Neural Networks,Not Completed,,Evening,40,2,2
+12/28/2024,9:35 PM,ChatGPT,59,C++,Completed,,Night,49.16666667,3,1
+12/29/2024,9:40 PM,Online Course,66,C++,Not Completed,,Night,48,1,2
+12/30/2024,6:02 PM,Practice,104,Projects,Completed,,Evening,86.66666667,3,2
+12/31/2024,7:35 PM,Book,107,Java (OOP),Not Completed,,Evening,38,1,1
+1/1/2025,7:11 PM,ChatGPT,71,Projects,Completed,,Evening,59.16666667,3,2
+1/2/2025,9:56 PM,Online Course,43,LLM Models,Completed,,Night,35.83333333,3,2
+1/3/2025,7:12 PM,Blog,86,Programming Fundamentals,Completed,,Evening,71.66666667,3,1
+1/4/2025,9:43 PM,Blog,90,Programming Fundamentals,Not Completed,,Night,32,2,2
+1/5/2025,8:26 PM,Blog,112,Analytics,Completed,,Evening,93.33333333,3,1
+1/6/2025,10:05 PM,YouTube,74,Machine Learning,Completed,,Night,61.66666667,3,1
+1/7/2025,8:51 PM,Online Course,62,Deep Learning,Not Completed,,Evening,37,1,2
+1/8/2025,6:43 PM,Blog,75,Programming Fundamentals,Completed,,Evening,62.5,3,2
+1/9/2025,8:55 PM,ChatGPT,110,Java (OOP),Completed,,Evening,91.66666667,3,2
+1/10/2025,9:18 PM,ChatGPT,44,Python Basics,Not Completed,,Night,51,1,1
+1/11/2025,10:11 PM,ChatGPT,57,Programming Fundamentals,Not Completed,,Night,34,2,2
+1/12/2025,7:13 PM,Practice,116,C++,Not Completed,,Evening,35,1,1
+1/13/2025,8:19 PM,ChatGPT,33,Projects,Completed,,Evening,27.5,3,2
+1/14/2025,9:45 PM,ChatGPT,43,Neural Networks,Not Completed,,Night,45,2,1
+1/15/2025,8:14 PM,ChatGPT,67,Deep Learning,Completed,,Evening,55.83333333,3,1
+1/16/2025,9:59 PM,ChatGPT,111,Data Science,Not Completed,,Night,41,1,1
+1/17/2025,10:40 PM,Practice,78,Statistics,Completed,,Night,65,3,2
+1/18/2025,8:03 PM,Book,42,Statistics,Completed,,Evening,35,3,2
+1/19/2025,8:20 PM,Online Course,92,Neural Networks,Not Completed,,Evening,53,1,1
+1/20/2025,10:59 PM,Book,101,LLM Models,Not Completed,,Night,30,2,2
+1/21/2025,9:39 PM,Practice,41,Digital Logic Design,Completed,,Night,34.16666667,3,1
+1/22/2025,7:47 PM,Practice,58,Computer Networks,Completed,,Evening,48.33333333,3,2
+1/23/2025,9:36 PM,Book,79,SQL,Not Completed,,Night,58,2,1
+1/24/2025,7:01 PM,Practice,72,Neural Networks,Completed,,Evening,60,3,1
+1/25/2025,6:54 PM,Online Course,118,Data Science,Not Completed,,Evening,30,2,1
+1/26/2025,8:42 PM,ChatGPT,83,Projects,Not Completed,,Evening,60,2,1
+1/27/2025,7:37 PM,Book,63,Software Engineering,Not Completed,,Evening,55,2,2
+1/28/2025,6:37 PM,Online Course,87,Deep Learning,Not Completed,,Evening,58,2,2
+1/29/2025,10:20 PM,Book,84,AI,Completed,,Night,70,3,1
+1/30/2025,10:54 PM,Blog,64,LLM Models,Completed,,Night,53.33333333,3,1
+1/31/2025,6:33 PM,Book,92,Computer Networks,Completed,,Evening,76.66666667,3,1
+2/1/2025,7:39 PM,YouTube,58,Software Engineering,Completed,,Evening,48.33333333,3,1
+2/2/2025,7:36 PM,ChatGPT,70,Digital Logic Design,Not Completed,,Evening,32,1,1
+2/3/2025,7:52 PM,Book,98,Python Basics,Completed,,Evening,81.66666667,3,2
+2/4/2025,8:17 PM,Online Course,38,Java (OOP),Completed,,Evening,31.66666667,3,2
+2/5/2025,6:10 PM,Blog,72,Programming Fundamentals,Not Completed,,Evening,30,2,2
+2/6/2025,9:16 PM,ChatGPT,116,Python Basics,Completed,,Night,96.66666667,3,2
+2/7/2025,8:05 PM,ChatGPT,63,Data Science,Completed,,Evening,52.5,3,2
+2/8/2025,6:47 PM,ChatGPT,84,Data Science,Not Completed,,Evening,45,2,2
+2/9/2025,7:50 PM,Book,73,Excel,Completed,,Evening,60.83333333,3,1
+2/10/2025,7:00 PM,YouTube,93,Programming Fundamentals,Not Completed,,Evening,56,2,1
+2/11/2025,6:58 PM,Book,62,Projects,Not Completed,,Evening,50,2,1
+2/12/2025,10:12 PM,Book,70,Java (OOP),Not Completed,,Night,59,1,1
+2/13/2025,6:35 PM,Blog,74,Deep Learning,Not Completed,,Evening,31,2,2
+2/14/2025,6:56 PM,Online Course,57,Projects,Not Completed,,Evening,54,2,2
+2/15/2025,10:16 PM,ChatGPT,65,Data Structures,Not Completed,,Night,56,1,2
+2/16/2025,7:31 PM,YouTube,72,Java (OOP),Completed,,Evening,60,3,2
+2/17/2025,9:12 PM,Online Course,119,C++,Not Completed,,Night,56,2,2
+2/18/2025,7:07 PM,YouTube,71,AI,Completed,,Evening,59.16666667,3,2
+2/19/2025,8:13 PM,ChatGPT,66,Calculus,Completed,,Evening,55,3,1
+2/20/2025,9:26 PM,Online Course,106,Programming Fundamentals,Completed,,Night,88.33333333,3,1
+2/21/2025,6:34 PM,ChatGPT,109,SQL,Not Completed,,Evening,53,1,2
+2/22/2025,10:48 PM,Online Course,44,Python Basics,Completed,,Night,36.66666667,3,1
+2/23/2025,10:17 PM,YouTube,36,Data Science,Not Completed,,Night,47,1,1
+2/24/2025,6:15 PM,Online Course,112,Statistics,Not Completed,,Evening,39,1,1
+2/25/2025,8:26 PM,YouTube,43,Linear Geometry,Completed,,Evening,35.83333333,3,2
+2/26/2025,6:15 PM,Practice,100,Machine Learning,Completed,,Evening,83.33333333,3,2
+2/27/2025,6:54 PM,ChatGPT,43,Computer Networks,Completed,,Evening,35.83333333,3,2
+2/28/2025,10:22 PM,Practice,109,C++,Not Completed,,Night,38,1,2
+3/1/2025,8:25 PM,ChatGPT,30,Statistics,Not Completed,,Evening,46,1,2
+3/2/2025,7:56 PM,Practice,32,Python Basics,Completed,,Evening,26.66666667,3,2
+3/3/2025,10:11 PM,Book,98,Linear Geometry,Not Completed,,Night,41,1,1
+3/4/2025,9:25 PM,Book,45,Java (OOP),Not Completed,,Night,43,2,1
+3/5/2025,9:24 PM,Online Course,54,LLM Models,Not Completed,,Night,37,1,1
+3/6/2025,8:34 PM,YouTube,100,C++,Not Completed,,Evening,31,2,1
+3/7/2025,6:51 PM,YouTube,39,Projects,Completed,,Evening,32.5,3,2
+3/8/2025,7:48 PM,Online Course,105,Computer Networks,Completed,,Evening,87.5,3,2
+3/9/2025,7:45 PM,Blog,113,Python Basics,Not Completed,,Evening,55,1,2
+3/10/2025,8:59 PM,Practice,64,Excel,Completed,,Evening,53.33333333,3,1
+3/11/2025,10:28 PM,YouTube,73,Programming Fundamentals,Completed,,Night,60.83333333,3,1
+3/12/2025,9:08 PM,ChatGPT,92,Analytics,Completed,,Night,76.66666667,3,1
+3/13/2025,7:37 PM,ChatGPT,41,Linear Geometry,Completed,,Evening,34.16666667,3,2
+3/14/2025,7:02 PM,Practice,67,LLM Models,Completed,,Evening,55.83333333,3,1
+3/15/2025,6:52 PM,Blog,68,Statistics,Not Completed,,Evening,49,2,2
+3/16/2025,9:49 PM,YouTube,113,Software Engineering,Not Completed,,Night,44,1,2
+3/17/2025,10:50 PM,Blog,66,Linear Geometry,Completed,,Night,55,3,1
+3/18/2025,10:07 PM,ChatGPT,35,LLM Models,Completed,,Night,29.16666667,3,1
+3/19/2025,6:14 PM,ChatGPT,80,AI,Not Completed,,Evening,42,2,2
+3/20/2025,7:38 PM,Book,51,Machine Learning,Completed,,Evening,42.5,3,1
+3/21/2025,7:48 PM,Online Course,88,Deep Learning,Not Completed,,Evening,46,2,1
+3/22/2025,6:25 PM,Blog,42,Python Basics,Not Completed,,Evening,47,2,1
+3/23/2025,6:21 PM,Online Course,118,Software Engineering,Not Completed,,Evening,47,1,1
+3/24/2025,10:28 PM,ChatGPT,114,Neural Networks,Completed,,Night,95,3,2
+3/25/2025,10:35 PM,YouTube,50,Projects,Not Completed,,Night,51,2,1
+3/26/2025,7:08 PM,YouTube,51,Machine Learning,Not Completed,,Evening,45,2,1
+3/27/2025,7:38 PM,Online Course,94,Data Science,Not Completed,,Evening,42,2,1
+3/28/2025,9:50 PM,Online Course,96,Python Basics,Not Completed,,Night,50,1,2
+3/29/2025,6:39 PM,Online Course,55,Python Basics,Not Completed,,Evening,53,1,2
+3/30/2025,8:44 PM,Practice,38,C++,Not Completed,,Evening,57,2,1
+3/31/2025,8:10 PM,Online Course,61,Linear Geometry,Completed,,Evening,50.83333333,3,2
+4/1/2025,7:45 PM,Book,83,Neural Networks,Completed,,Evening,69.16666667,3,2
+4/2/2025,6:45 PM,Online Course,43,Statistics,Completed,,Evening,35.83333333,3,1
+4/3/2025,9:44 PM,ChatGPT,106,Projects,Completed,,Night,88.33333333,3,2
+4/4/2025,7:34 PM,Book,36,Linear Geometry,Completed,,Evening,30,3,2
+4/5/2025,7:30 PM,ChatGPT,92,Java (OOP),Not Completed,,Evening,60,2,1
+4/6/2025,9:43 PM,Practice,64,Excel,Not Completed,,Night,33,2,1
+4/7/2025,10:01 PM,YouTube,68,Data Structures,Not Completed,,Night,34,2,1
+4/8/2025,7:09 PM,ChatGPT,116,Python Basics,Not Completed,,Evening,57,1,2
+4/9/2025,10:59 PM,Online Course,82,Calculus,Completed,,Night,68.33333333,3,2
+4/10/2025,7:50 PM,Book,31,Programming Fundamentals,Completed,,Evening,25.83333333,3,1
+4/11/2025,9:43 PM,Online Course,58,AI,Completed,,Night,48.33333333,3,1
+4/12/2025,7:51 PM,YouTube,99,Python Basics,Completed,,Evening,82.5,3,1
+4/13/2025,6:02 PM,Online Course,51,Linear Geometry,Not Completed,,Evening,45,2,2
+4/14/2025,10:00 PM,Blog,57,Programming Fundamentals,Completed,,Night,47.5,3,2
+4/15/2025,7:17 PM,Book,85,Excel,Completed,,Evening,70.83333333,3,1
+4/16/2025,7:20 PM,YouTube,66,LLM Models,Not Completed,,Evening,44,1,1
+4/17/2025,9:25 PM,Online Course,75,C++,Completed,,Night,62.5,3,1
+4/18/2025,7:08 PM,Blog,104,Machine Learning,Not Completed,,Evening,41,1,2
+4/19/2025,10:03 PM,ChatGPT,64,Data Structures,Completed,,Night,53.33333333,3,2
+4/20/2025,8:55 PM,Blog,38,Deep Learning,Not Completed,,Evening,55,2,2
+4/21/2025,8:35 PM,Online Course,81,Computer Networks,Completed,,Evening,67.5,3,1
+4/22/2025,9:01 PM,ChatGPT,76,Data Structures,Completed,,Night,63.33333333,3,2
+4/23/2025,10:33 PM,ChatGPT,119,Python Basics,Not Completed,,Night,46,2,2
+4/24/2025,10:27 PM,ChatGPT,69,SQL,Not Completed,,Night,37,2,2
+4/25/2025,10:54 PM,Blog,88,Data Structures,Not Completed,,Night,58,2,1
+4/26/2025,7:03 PM,Book,103,AI,Not Completed,,Evening,36,1,2
+4/27/2025,6:12 PM,YouTube,99,Machine Learning,Completed,,Evening,82.5,3,1
+4/28/2025,7:20 PM,Book,118,Data Structures,Completed,,Evening,98.33333333,3,1
+4/29/2025,7:05 PM,Blog,105,Analytics,Completed,,Evening,87.5,3,2
+4/30/2025,7:10 PM,Online Course,51,Discrete Structures,Not Completed,,Evening,30,2,2
+5/1/2025,9:50 PM,Book,114,Software Engineering,Not Completed,,Night,30,2,1
+5/2/2025,7:49 PM,YouTube,58,C++,Not Completed,,Evening,55,2,2
+5/3/2025,10:15 PM,YouTube,30,Analytics,Completed,,Night,25,3,1
+5/4/2025,8:16 PM,ChatGPT,70,Projects,Not Completed,,Evening,57,2,2
+5/5/2025,8:18 PM,Blog,34,Python Basics,Completed,,Evening,28.33333333,3,1
+5/6/2025,9:17 PM,Online Course,42,Analytics,Completed,,Night,35,3,1
+5/7/2025,6:10 PM,Book,83,Software Engineering,Completed,,Evening,69.16666667,3,2
+5/8/2025,9:09 PM,YouTube,42,Neural Networks,Not Completed,,Night,33,1,2
+5/9/2025,10:58 PM,Online Course,119,Programming Fundamentals,Not Completed,,Night,48,2,1
+5/10/2025,10:37 PM,Book,117,Excel,Not Completed,,Night,45,1,2
+5/11/2025,9:09 PM,Blog,53,Software Engineering,Completed,,Night,44.16666667,3,1
+5/12/2025,6:24 PM,Practice,52,LLM Models,Not Completed,,Evening,35,2,2
+5/13/2025,10:20 PM,Online Course,73,Deep Learning,Not Completed,,Night,59,1,2
+5/14/2025,8:36 PM,Blog,78,AI,Not Completed,,Evening,57,2,2
+5/15/2025,7:35 PM,YouTube,104,AI,Completed,,Evening,86.66666667,3,1
+5/16/2025,6:08 PM,Blog,106,Digital Logic Design,Completed,,Evening,88.33333333,3,1
+5/17/2025,7:47 PM,YouTube,58,Calculus,Not Completed,,Evening,55,2,2
+5/18/2025,8:26 PM,Blog,35,Digital Logic Design,Not Completed,,Evening,59,1,2
+5/19/2025,6:18 PM,YouTube,99,Data Structures,Not Completed,,Evening,58,1,1
+5/20/2025,7:21 PM,ChatGPT,72,Java (OOP),Not Completed,,Evening,54,2,2
+5/21/2025,6:33 PM,Online Course,89,Python Basics,Completed,,Evening,74.16666667,3,2
+5/22/2025,8:50 PM,YouTube,36,Software Engineering,Completed,,Evening,30,3,2
+5/23/2025,6:29 PM,Practice,64,Data Science,Completed,,Evening,53.33333333,3,1
+5/24/2025,8:32 PM,ChatGPT,116,AI,Not Completed,,Evening,50,1,2
+5/25/2025,8:28 PM,Blog,80,Programming Fundamentals,Not Completed,,Evening,45,2,1
+5/26/2025,6:13 PM,Online Course,64,Discrete Structures,Completed,,Evening,53.33333333,3,2
+5/27/2025,8:29 PM,Blog,110,Discrete Structures,Not Completed,,Evening,41,1,2
+5/28/2025,10:00 PM,Book,63,Software Engineering,Not Completed,,Night,42,2,2
+5/29/2025,6:01 PM,YouTube,113,Calculus,Completed,,Evening,94.16666667,3,1
+5/30/2025,9:34 PM,Practice,66,AI,Not Completed,,Night,49,2,1
+5/31/2025,10:57 PM,ChatGPT,47,Software Engineering,Completed,,Night,39.16666667,3,1
+6/1/2025,8:20 PM,Practice,92,Computer Networks,Completed,,Evening,76.66666667,3,2
+6/2/2025,10:00 PM,Book,102,Linear Geometry,Not Completed,,Night,52,1,2
+6/3/2025,9:24 PM,Online Course,59,Java (OOP),Completed,,Night,49.16666667,3,1
+6/4/2025,6:32 PM,ChatGPT,64,LLM Models,Completed,,Evening,53.33333333,3,2
+6/5/2025,7:07 PM,ChatGPT,104,Linear Geometry,Not Completed,,Evening,42,2,1
+6/6/2025,7:02 PM,ChatGPT,82,SQL,Not Completed,,Evening,43,1,2
+6/7/2025,9:46 PM,ChatGPT,88,Digital Logic Design,Completed,,Night,73.33333333,3,2
+6/8/2025,10:00 PM,YouTube,101,Statistics,Not Completed,,Night,32,1,1
+6/9/2025,7:27 PM,Practice,69,Deep Learning,Completed,,Evening,57.5,3,1
+6/10/2025,7:43 PM,Practice,41,Linear Geometry,Completed,,Evening,34.16666667,3,1
+6/11/2025,7:55 PM,ChatGPT,84,Analytics,Not Completed,,Evening,34,1,1
+6/12/2025,7:40 PM,Practice,103,Statistics,Completed,,Evening,85.83333333,3,1
+6/13/2025,10:03 PM,Blog,110,Linear Geometry,Not Completed,,Night,48,2,1
+6/14/2025,9:11 PM,Practice,36,Excel,Not Completed,,Night,31,2,1
+6/15/2025,6:19 PM,Practice,101,Statistics,Not Completed,,Evening,49,2,2
+6/16/2025,9:47 PM,ChatGPT,88,Excel,Completed,,Night,73.33333333,3,2
+6/17/2025,7:40 PM,Online Course,69,Projects,Completed,,Evening,57.5,3,1
+6/18/2025,9:25 PM,ChatGPT,45,Linear Geometry,Completed,,Night,37.5,3,2
+6/19/2025,6:31 PM,Online Course,68,Python Basics,Completed,,Evening,56.66666667,3,1
+6/20/2025,8:01 PM,Practice,36,Excel,Completed,,Evening,30,3,2
+6/21/2025,9:43 PM,YouTube,48,Data Science,Completed,,Night,40,3,1
+6/22/2025,6:17 PM,Online Course,120,Digital Logic Design,Not Completed,,Evening,44,1,2
+6/23/2025,7:07 PM,Practice,45,Java (OOP),Not Completed,,Evening,36,2,2
+6/24/2025,10:08 PM,YouTube,51,Discrete Structures,Not Completed,,Night,51,2,2
+6/25/2025,8:16 PM,YouTube,73,Statistics,Completed,,Evening,60.83333333,3,1
+6/26/2025,6:28 PM,Book,65,Analytics,Not Completed,,Evening,52,2,2
+6/27/2025,8:52 PM,Online Course,39,Data Science,Completed,,Evening,32.5,3,2
+6/28/2025,10:47 PM,Online Course,97,Digital Logic Design,Not Completed,,Night,45,2,2
+6/29/2025,8:03 PM,ChatGPT,107,Java (OOP),Completed,,Evening,89.16666667,3,2
+6/30/2025,10:45 PM,Book,53,Computer Networks,Not Completed,,Night,31,2,1
+7/1/2025,6:48 PM,YouTube,92,Projects,Completed,,Evening,76.66666667,3,1
+7/2/2025,7:16 PM,Practice,78,Excel,Not Completed,,Evening,40,1,2
+7/3/2025,7:15 PM,ChatGPT,66,Calculus,Not Completed,,Evening,37,2,1
+7/4/2025,9:18 PM,YouTube,54,Data Structures,Completed,,Night,45,3,1
+7/5/2025,8:54 PM,Online Course,74,Programming Fundamentals,Not Completed,,Evening,52,2,1
+7/6/2025,7:35 PM,YouTube,35,Computer Networks,Not Completed,,Evening,38,1,2
+7/7/2025,7:58 PM,YouTube,109,Deep Learning,Not Completed,,Evening,55,2,1
+7/8/2025,9:44 PM,Book,103,Neural Networks,Completed,,Night,85.83333333,3,1
+7/9/2025,8:14 PM,ChatGPT,41,Programming Fundamentals,Completed,,Evening,34.16666667,3,2
+7/10/2025,7:03 PM,YouTube,92,AI,Completed,,Evening,76.66666667,3,2
+7/11/2025,8:29 PM,Practice,40,Python Basics,Not Completed,,Evening,46,2,2
+7/12/2025,6:38 PM,Book,58,Neural Networks,Not Completed,,Evening,43,1,1
+7/13/2025,8:20 PM,ChatGPT,57,Deep Learning,Not Completed,,Evening,39,1,1
+7/14/2025,10:46 PM,Blog,75,C++,Completed,,Night,62.5,3,1
+7/15/2025,8:40 PM,YouTube,65,Deep Learning,Not Completed,,Evening,41,1,2
+7/16/2025,6:56 PM,YouTube,52,Data Science,Not Completed,,Evening,38,2,2
+7/17/2025,9:44 PM,YouTube,102,Computer Networks,Completed,,Night,85,3,1
+7/18/2025,6:15 PM,Online Course,95,Deep Learning,Completed,,Evening,79.16666667,3,2
+7/19/2025,8:36 PM,Book,68,LLM Models,Completed,,Evening,56.66666667,3,2
+7/20/2025,10:49 PM,Blog,63,Deep Learning,Completed,,Night,52.5,3,1
+7/21/2025,8:57 PM,YouTube,89,Machine Learning,Completed,,Evening,74.16666667,3,2
+7/22/2025,9:00 PM,YouTube,74,Calculus,Not Completed,,Night,42,2,1
+7/23/2025,7:11 PM,Practice,110,Projects,Not Completed,,Evening,54,2,2
+7/24/2025,8:48 PM,Practice,64,Programming Fundamentals,Completed,,Evening,53.33333333,3,1
+7/25/2025,9:16 PM,Online Course,77,Calculus,Completed,,Night,64.16666667,3,2
+7/26/2025,9:49 PM,Online Course,55,Software Engineering,Not Completed,,Night,32,1,2
+7/27/2025,8:32 PM,ChatGPT,72,Data Structures,Completed,,Evening,60,3,1
+7/28/2025,8:29 PM,Online Course,61,Digital Logic Design,Completed,,Evening,50.83333333,3,2
+7/29/2025,10:12 PM,Blog,101,Excel,Not Completed,,Night,55,1,2
+7/30/2025,7:58 PM,ChatGPT,54,Digital Logic Design,Completed,,Evening,45,3,1
+7/31/2025,10:25 PM,YouTube,98,Analytics,Completed,,Night,81.66666667,3,2
+8/1/2025,6:46 PM,ChatGPT,107,Projects,Not Completed,,Evening,35,1,2
+8/2/2025,7:43 PM,Practice,71,Python Basics,Completed,,Evening,59.16666667,3,1
+8/3/2025,7:15 PM,Blog,79,Digital Logic Design,Not Completed,,Evening,31,1,1
+8/4/2025,8:42 PM,Blog,47,C++,Not Completed,,Evening,53,1,1
+8/5/2025,7:06 PM,YouTube,69,Linear Geometry,Not Completed,,Evening,30,2,2
+8/6/2025,8:51 PM,Book,89,Calculus,Not Completed,,Evening,41,1,1
+8/7/2025,9:07 PM,Online Course,108,Analytics,Not Completed,,Night,48,1,2
+8/8/2025,8:53 PM,ChatGPT,116,Digital Logic Design,Not Completed,,Evening,52,1,1
+8/9/2025,7:41 PM,Online Course,116,AI,Not Completed,,Evening,34,2,1
+8/10/2025,10:51 PM,Online Course,78,Data Structures,Completed,,Night,65,3,2
+8/11/2025,9:11 PM,Online Course,59,Linear Geometry,Not Completed,,Night,41,1,2
+8/12/2025,9:02 PM,Book,76,Calculus,Completed,,Night,63.33333333,3,2
+8/13/2025,7:18 PM,Practice,92,LLM Models,Completed,,Evening,76.66666667,3,2
+8/14/2025,10:44 PM,Blog,112,Programming Fundamentals,Not Completed,,Night,56,1,1
+8/15/2025,6:42 PM,Practice,36,Linear Geometry,Not Completed,,Evening,32,1,1
+8/16/2025,10:04 PM,Online Course,105,Neural Networks,Completed,,Night,87.5,3,1
+8/17/2025,7:30 PM,Practice,63,AI,Not Completed,,Evening,43,1,2
+8/18/2025,8:31 PM,ChatGPT,116,LLM Models,Completed,,Evening,96.66666667,3,1
+8/19/2025,10:36 PM,Practice,71,SQL,Not Completed,,Night,60,1,1
+8/20/2025,6:12 PM,Book,115,Python Basics,Completed,,Evening,95.83333333,3,1
+8/21/2025,9:14 PM,YouTube,72,Digital Logic Design,Not Completed,,Night,54,2,2
+8/22/2025,6:14 PM,Book,113,Data Science,Not Completed,,Evening,52,1,1
+8/23/2025,7:22 PM,Practice,120,AI,Completed,,Evening,100,3,1
+8/24/2025,10:55 PM,Practice,102,Data Science,Not Completed,,Night,41,2,2
+8/25/2025,10:33 PM,Online Course,65,SQL,Completed,,Night,54.16666667,3,1
+8/26/2025,9:34 PM,Blog,104,Python Basics,Completed,,Night,86.66666667,3,1
+8/27/2025,7:48 PM,Book,109,C++,Not Completed,,Evening,43,2,2
+8/28/2025,8:22 PM,Book,58,SQL,Not Completed,,Evening,51,2,1
+8/29/2025,8:01 PM,YouTube,75,Linear Geometry,Not Completed,,Evening,48,2,1
+8/30/2025,10:45 PM,Online Course,56,Discrete Structures,Not Completed,,Night,60,2,2
+8/31/2025,10:45 PM,Blog,60,Programming Fundamentals,Not Completed,,Night,54,1,2
+9/1/2025,6:44 PM,Online Course,116,Digital Logic Design,Completed,,Evening,96.66666667,3,2
+9/2/2025,8:42 PM,Blog,34,Linear Geometry,Not Completed,,Evening,50,2,1
+9/3/2025,8:02 PM,YouTube,64,Data Science,Not Completed,,Evening,51,1,1
+9/4/2025,6:46 PM,YouTube,89,LLM Models,Not Completed,,Evening,47,2,1
+9/5/2025,8:51 PM,Book,60,Software Engineering,Not Completed,,Evening,50,1,1
+9/6/2025,10:24 PM,Book,113,Java (OOP),Not Completed,,Night,57,1,1
+9/7/2025,8:32 PM,Practice,94,Excel,Not Completed,,Evening,40,1,2
+9/8/2025,9:56 PM,YouTube,98,Neural Networks,Not Completed,,Night,34,1,1
+9/9/2025,6:17 PM,Blog,108,C++,Not Completed,,Evening,59,1,1
+9/10/2025,6:22 PM,Online Course,102,Python Basics,Completed,,Evening,85,3,1
+9/11/2025,7:12 PM,ChatGPT,113,Python Basics,Completed,,Evening,94.16666667,3,1
+9/12/2025,8:50 PM,ChatGPT,89,Programming Fundamentals,Not Completed,,Evening,35,2,1
+9/13/2025,9:40 PM,Blog,57,Data Structures,Completed,,Night,47.5,3,1
+9/14/2025,6:38 PM,YouTube,33,Java (OOP),Not Completed,,Evening,39,1,1
+9/15/2025,7:25 PM,Book,108,Linear Geometry,Completed,,Evening,90,3,1
+9/16/2025,7:37 PM,ChatGPT,34,Deep Learning,Completed,,Evening,28.33333333,3,2
+9/17/2025,7:47 PM,Book,75,Data Science,Not Completed,,Evening,46,1,1
+9/18/2025,10:50 PM,Online Course,34,Excel,Completed,,Night,28.33333333,3,2
+9/19/2025,7:46 PM,ChatGPT,75,Projects,Not Completed,,Evening,33,1,2
+9/20/2025,7:14 PM,Book,31,Neural Networks,Completed,,Evening,25.83333333,3,2
+9/21/2025,9:16 PM,ChatGPT,106,Data Structures,Not Completed,,Night,41,1,2
+9/22/2025,6:08 PM,YouTube,102,C++,Not Completed,,Evening,43,2,1
+9/23/2025,6:38 PM,Blog,91,Data Structures,Completed,,Evening,75.83333333,3,2
+9/24/2025,7:44 PM,Blog,64,SQL,Not Completed,,Evening,49,2,1
+9/25/2025,7:34 PM,YouTube,62,Digital Logic Design,Not Completed,,Evening,53,1,2
