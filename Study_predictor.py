@@ -18,8 +18,8 @@ print("sklearn")
 print(sklearn.__version__)
 print("sklearn")
 
-df = pd.read_csv(r"C:\Users\ELECTRO LINKS\Downloads\studypredictor.csv",
-                 encoding='utf-8-sig')
+df = pd.read_csv("studypredictor.csv", encoding="utf-8-sig")
+
 print(df.head(10))
 
 print(df.info())
@@ -157,3 +157,4 @@ def plot_feature_importance(rf_model, feature_names):
     ax.set_ylabel("Features")
 
     return fig
+
