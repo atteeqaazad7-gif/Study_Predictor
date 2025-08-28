@@ -1,5 +1,7 @@
 # Study_Predictor
 This project is a Streamlit web application that predicts study effectiveness based on user inputs such as study duration, mood, confidence, time of day, and type of resource used. It leverages machine learning models trained on study session data and presents predictions with interactive UI elements and visualizations.
+
+
 **Data Input ( Streamlit sidebar)**
 Duration (minutes studied)
 Mood (1 = bad, 3 = good)
